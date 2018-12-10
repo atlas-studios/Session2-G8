@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-4.1.5" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1060,6 +1060,14 @@ Manager Rong hurriedly shouted to the group of individuals in Jiang Yi's corner 
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“哼哼！”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="zhong" changedate="20181210T070949Z" creationid="zhong" creationdate="20181210T070949Z">
+        <seg>"Hem!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“哼哼！三个月，只要给我三个月时间，我一定让整个江家刮目相看！可惜……干爷爷看不到！”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181202T153404Z" creationid="Joey" creationdate="20180818T051009Z">
@@ -1620,6 +1628,14 @@ A long sickle-like weapon appeared out of thin air and floated into the hands of
       </tuv>
       <tuv lang="EN-US" changeid="tianqi" changedate="20181021T151911Z" creationid="tianqi" creationdate="20181021T151911Z">
         <seg>"'Great things'!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“大哥果然聪明！”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="zhong" changedate="20181210T071427Z" creationid="zhong" creationdate="20181210T071427Z">
+        <seg>"Brother you are indeed smart!"</seg>
       </tuv>
     </tu>
     <tu>
@@ -7518,10 +7534,26 @@ He released a long sigh and gave a malevolent look. Gritting his teeth, he swore
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>小胖子有些惊恐疑惑的叫道：“大哥，你说什么？我不懂啊！”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="zhong" changedate="20181210T070922Z" creationid="zhong" creationdate="20181210T070922Z">
+        <seg>The fatty went panic and cried, "What are you talking about, Brother? I don't understand! "</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>小胖子竟被安排和江逸一个宿舍，一路和江逸喋喋咻咻个不停，江逸无视他径直走进了小院内。这个小院很是简单，只有四个小房间，不过里面的被褥用具倒是新的。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="zhong" changedate="20181210T070428Z" creationid="zhong" creationdate="20181210T070428Z">
         <seg>The fatty was arranged in the same dormitory with Jiang Yi. He chattered with Jiang Yi on the way non-stop. Jiang Yi ignored him and went straight into the courtyard. The courtyard is very simple with only four small rooms, but the bedding is new.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>小胖子脸上露出一丝苦涩，摇了摇头道：“大哥先松开吧，我对你没恶意的。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="zhong" changedate="20181210T071525Z" creationid="zhong" creationdate="20181210T071525Z">
+        <seg>The fatty's face showed a trace of bitterness and shook his head, he said, "Brother, let me go first. I mean no harm to you."</seg>
       </tuv>
     </tu>
     <tu>
@@ -10325,6 +10357,14 @@ The plump shopkeeper's facial expression changed. He gave a forced, awkward laug
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>江逸冷笑两声，目光内寒光熠熠，沉喝起来：“你堂堂神武国七大世家的公子，会住在这种简陋的小院？刚才你和一个导师打眼色，以为我没看到？以你的身份和手段，就算住进正式学员，甚至精英学员的高级院子也很简单吧？别和我耍手段，我这人最讨厌这些。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="zhong" changedate="20181210T071357Z" creationid="zhong" creationdate="20181210T071357Z">
+        <seg>Jiang Yi sneered, his eyes were cold, and bellowed, "You, the son of one of the seven great families of Divine Martial Kingdom, will live in such a humble courtyard? You think I didn't see you signaling the mentor just now with your eyes? Considering your identity and little tricks, it's easy to live in the elite courtyard for formal and even elite students, isn't it? Don't play tricks with me. I hate these things the most."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>江逸凭借爆元掌重创一人，身子并没有片刻停歇，携带刚才之威，在附近一名铸鼎境七重武者还没反应之前，再次狠狠一拳把一人砸飞。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="leminhu" changedate="20181210T062233Z" creationid="leminhu" creationdate="20181210T062233Z">
@@ -11583,6 +11623,14 @@ It was unbelievable that the adage "beggars cannot be choosers" could apply to t
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20180825T011858Z" creationid="Joey" creationdate="20180807T152737Z">
         <seg>Jiang Yi was about to relate the incident of Jiang Ruhu and his cronies stealing medicine and beating him up, but he stopped himself just as he opened his mouth to speak. He had remembered that not only was Jiang Ruhu’s father the family’s chief supervisor, he was also Chief Rong’s head honcho. Should this incident be revealed by Jiang Yi… not only would Chief Rong not help him at all, Chief Rong may even invert right and wrong and punish him instead!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>江逸松开手，小胖子不再嬉笑，正色说道：“江逸，说句实话的确是我让那个导师安排和你住一起的，那个导师……是我们钱家的人。至于为何要和你住一起，是因为战无双欠你一个人情，我想通过你结交战无双。当然更重要的是你这个人，你更值得我钱万贯结交，大哥天资卓越，未来前途不可限量……”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="zhong" changedate="20181210T071907Z" creationid="zhong" creationdate="20181210T071907Z">
+        <seg>Jiang Yi released him. The fatty stopped his grinning and said, "Jiang Yi, indeed, it is true that I let that mentor to arrange to live with you. You see, he works for my family. As for why I want to live with you, it's because Zhan Wu Shuang owes you a favor. I want to make friend with Zhan Wu Shuang through you. Of course, you are a person who deserves my friendship more. You are talented and has unlimited prospects in the future..."</seg>
       </tuv>
     </tu>
     <tu>
