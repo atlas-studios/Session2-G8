@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-4.1.5" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3432,6 +3432,14 @@ Jiang Yi recalled the sequence of events that had taken place in the morning. Hi
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20180825T011433Z" creationid="Joey" creationdate="20180807T151839Z">
         <seg>Jiang Yi let out a pent-up sigh. “Thankfully… well… at least for now, I haven’t discovered any negative impacts.”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“还愣着干什么？攻击！”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="leminhu" changedate="20181210T064024Z" creationid="leminhu" creationdate="20181210T064024Z">
+        <seg>"What are you waiting for? Attack him!"</seg>
       </tuv>
     </tu>
     <tu>
@@ -11887,6 +11895,14 @@ Yet he smiled sweetly and replied, "Elder Liu gave the instruction two days ago 
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>江逸的身体已经到了另外一名武者身边，本来有一人和他正对战，却被江逸那边的战斗吸引了都忘记了攻击，在江逸一声爆喝之下，立即醒悟慌忙配合江逸攻击。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="leminhu" changedate="20181210T064259Z" creationid="leminhu" creationdate="20181210T064259Z">
+        <seg>Jiang Yi had already shifted to another fighter's side. There was initially a fighter battling with him, </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>江逸的身子如风般朝那屋子内冲去，房门关上的，他一脚重重的踹了上去。此刻他脚上元力灌注，这一脚力道十足，房门瞬间四分五裂，轰然倒下。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20180825T004516Z" creationid="USER" creationdate="20180807T120649Z">
@@ -12897,6 +12913,14 @@ Immediately being reminded of something, he grinned widely as he said, "Xiaonu, 
       </tuv>
       <tuv lang="EN-US" changeid="Ho Jin Liang" changedate="20181203T154038Z" creationid="Ho Jin Liang" creationdate="20181203T154038Z">
         <seg>Jiang Gushui and the others looked at each other helplessly, but had long went to seek for help. They never would have though the sealed trash, who they looked with disdain, would become such a ferocious existence that could not only oppress dozens of clansmen but easily defeat the Jiang Rulong who was the no.2 of the clan's younger generation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>江麒麟看了江逸一阵，开始看他的身子有些眼熟，很快想起爆元掌，幡然醒悟暴怒大喝起来：“我杀了你。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="leminhu" changedate="20181210T064008Z" creationid="leminhu" creationdate="20181210T064008Z">
+        <seg>Jiang Qilin looked at Jiang Yi for a moment; Jiang Yi's movements feel familiar with Jiang Qilin. Very quickly, he thought of the explosive palm attack and it dawned on him who Jiang Yi was. Jiang Qilin shouted with wrath,"I'm gonna kill you." </seg>
       </tuv>
     </tu>
     <tu>
