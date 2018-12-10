@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-4.1.5" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7454,6 +7454,14 @@ He released a long sigh and gave a malevolent look. Gritting his teeth, he swore
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>小胖子被打了一下，没有半点生气，反而谄媚笑道：“嘿嘿，大哥别用担心那么多，我保证江麒麟不敢惹你，就算他敢惹你我绝对叫人帮你揍他。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="zhong" changedate="20181210T063406Z" creationid="zhong" creationdate="20181210T063406Z">
+        <seg>Although the fatty was hit,  he was not angry at all. He but flattered and laughed, "Hehe, don't worry so much about it Brother. I promise Jiang Qilin won't dare to provoke you, even if he dares to provoke you, I will definitely ask someone to help you beat him."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>少女目光在江逸等人身上扫过，有些不满的说道：“杨管事，怎么没有银牌陪练？全都是铜牌的？”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181202T152717Z" creationid="Joey" creationdate="20180911T211203Z">
@@ -12807,6 +12815,14 @@ At the moment of impact, that martial artist at the third stage of the Cast Trip
         <seg>Jiang Yi paused for a moment. 
 
 Hesitating briefly, he asked, "Can I leave at any time I want?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>江逸飞了一个白眼，这小胖子很是欠揍，但又不让人讨厌。不知为何他对于这个神武国第四家族的公子他半点没有畏惧，反而倍感亲切，就像自己的小弟般。或许这也正是小胖子的个人魅力，天生的能力，能让人消除戒心和他交好。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="zhong" changedate="20181210T063747Z" creationid="zhong" creationdate="20181210T063747Z">
+        <seg>Jiang Yi rolled his eye. This fatty sure lack of discipline, but he was not annoying. Somehow he was not afraid of the son of the fourth family of the Divine Martial Kingdom. Instead, he was very cordial, as though he is a younger brother. Perhaps this is his personal charm, innate ability, that allow people to let down their guard and make friends with him.</seg>
       </tuv>
     </tu>
     <tu>
