@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-4.1.5" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3044,6 +3044,14 @@ Jiang Yi recalled the sequence of events that had taken place in the morning. Hi
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“看到没，战无双！”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="leminhu" changedate="20181210T073417Z" creationid="leminhu" creationdate="20181210T073417Z">
+        <seg>"See it for yourself, Zhan Wu Shuang!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“看招！流星拳！”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180917T191641Z" creationid="Joey" creationdate="20180917T191641Z">
@@ -3560,6 +3568,14 @@ Jiang Yi recalled the sequence of events that had taken place in the morning. Hi
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180818T043329Z" creationid="Joey" creationdate="20180818T043329Z">
         <seg>"Don't you worry about that! Additionally, don't tell anyone else about these things. Just wait for the good times to come."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“这人竟然真的隐藏了实力？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="leminhu" changedate="20181210T071643Z" creationid="leminhu" creationdate="20181210T071643Z">
+        <seg>"He actually hid his real power?"</seg>
       </tuv>
     </tu>
     <tu>
@@ -7578,6 +7594,14 @@ He released a long sigh and gave a malevolent look. Gritting his teeth, he swore
       </tuv>
       <tuv lang="EN-US" changeid="zhong" changedate="20181210T070922Z" creationid="zhong" creationdate="20181210T070922Z">
         <seg>The fatty went panic and cried, "What are you talking about, Brother? I don't understand! "</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>小胖子望着江逸消失的方向眨了眨眼睛有些懊恼，这次他可是亏了，前方的战斗是输是赢这并不重要，重要的是他想通过江逸让战无双出手，结果不等战无双出手，江逸竟轻松重创了十人……</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="leminhu" changedate="20181210T072145Z" creationid="leminhu" creationdate="20181210T072145Z">
+        <seg>Looking in the direction where Jiang Yi disappeared, he blinked his eyes, a bit vexed. He had lost. Whether the battle he was facing then won was not important. More important was that that he wanted to force Zhan Wu Shuang to make his move through Jiang Yi, but Jiang Yi, with ease, severely injured ten, without Zhan Wu Shuang taking any effort. </seg>
       </tuv>
     </tu>
     <tu>
@@ -15795,6 +15819,14 @@ Instead, he turned his body and was about to walk in the direction of the Jiang 
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>那边黑衣少女眼中都是雀跃，扭头和战无双冷笑道：“我说的没错吧？这人绝对隐藏了实力，铸鼎境九重一招就能重创，他实力绝对不弱于你。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="leminhu" changedate="20181210T073845Z" creationid="leminhu" creationdate="20181210T073845Z">
+        <seg>The girl in black was ecstatic from her eyes. Turning around, he smiled coldly at Zhan Wu Shuang,"I didn't say wrongly right? That person definitely hid his true potentials. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>那铸鼎境界三重旁系子弟江如鹰立即朝前走了两步，蹲了一个马步，满脸嘲弄的伸手指着胯下道：“来吧！钻过去。”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180917T111825Z" creationid="Joey" creationdate="20180917T111825Z">
@@ -15807,6 +15839,14 @@ Instead, he turned his body and was about to walk in the direction of the Jiang 
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181110T055405Z" creationid="Joey" creationdate="20180810T205747Z">
         <seg>That black essence force actually separated from the blue essence force and suddenly merged with the nearby elixir powers...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>钱万贯沉吟一阵，很快又眯笑了起来，招来一个人道：“传讯下去，让家族的探子查一下这人的资料，十五六岁综合战力竟达到紫府境了？不是七大世家的子弟也有如此天资？我倒是看走眼了。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="leminhu" changedate="20181210T073401Z" creationid="leminhu" creationdate="20181210T073401Z">
+        <seg>Qian Wan Guan pondered for some time. Smiling with squinting eyes, he called for a person,"Spread down this message: Ask the family spy to check the information of this person. How could the general fighting capabilities of this fifteen- or sixteen-year-old reach the Purple Mansion Realm? Who can have such talents other than members of the seven great family clans? I'm actually made a misjudgment."</seg>
       </tuv>
     </tu>
     <tu>
