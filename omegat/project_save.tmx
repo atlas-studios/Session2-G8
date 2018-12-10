@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-4.1.5" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2888,6 +2888,14 @@ Jiang Yi had no desire to stir up trouble, but Jiang Bao clearly had no desire t
         <seg>“With my lack of strength, I, Jiang Yi, am doomed to be trampled under the feet of swine like Jiang Ruhu and fated to endure countless humiliations! This is not the life I want—neither now, nor in the future!”
 
 Jiang Yi recalled the sequence of events that had taken place in the morning. His face burning with rage and indignation, he clenched his fists tightly, letting his fingernails pierce deep into his palms.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“没有的事，别说话！”江逸脸色一红，脑袋更加低了几分，好在这月媚儿交上令牌后进了人群中，没有看到江逸。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="zhong" changedate="20181210T064803Z" creationid="zhong" creationdate="20181210T064803Z">
+        <seg>"No, just shut up!" Jiang Yi's face turned red and his head was even lower. Fortunately, Yue Mei Er walked into the crowd after handed in her token, and did not see Jiang Yi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7462,6 +7470,14 @@ He released a long sigh and gave a malevolent look. Gritting his teeth, he swore
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>小胖子发现是一名漂亮的少女，小眼睛一亮立即露出猥琐的笑容凑过来说道：“大哥，这个月媚儿可是王城月家的小姐啊，怎么……你和她有一腿？或者你做了对不起人家的事情？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="zhong" changedate="20181210T064640Z" creationid="zhong" creationdate="20181210T064640Z">
+        <seg>The fatty found out that the person was a beautiful girl. His little eyes lit up and whisper with a  grin, "Brother, this Yue Mei Er is the Miss from Wang Cheng Yue's family. Oh...Do you have an affair with her? Or did you do something offending?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>小胖子被打了一下，没有半点生气，反而谄媚笑道：“嘿嘿，大哥别用担心那么多，我保证江麒麟不敢惹你，就算他敢惹你我绝对叫人帮你揍他。”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="zhong" changedate="20181210T063406Z" creationid="zhong" creationdate="20181210T063406Z">
@@ -8484,6 +8500,14 @@ With his strength still stuck at the first stage of the Cast Tripod Realm, shoul
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181110T054808Z" creationid="Joey" creationdate="20180808T094456Z">
         <seg>Time passed by slowly, second by second. Jiang Yi's body tensed up as cold sweat dripped down his back. Jiang Xiaonu's pair of pretty ears also revealed her nervousness and anxiety. The ability of the two people to safely leave Fengyue Brothel hinged entirely on a single thought made by this very housekeeper. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>时间一点一点的过去，不断有人上山顶，很快天色完全黑了下来，一名导师沉喝起来：“时间到了，这次灵兽山血炼到此为止。一组共有二百六十人通过，二组四十五人。恭喜你们，一组将成为学院正式学员，二组全部成为记名学员，下面请所有学员跟随导师进学院内，安排住宿……”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="zhong" changedate="20181210T065436Z" creationid="zhong" creationdate="20181210T065436Z">
+        <seg>Time slowly passed by, there are people kept climbing up to the top of the hill. Soon, the sun had set completely. A mentor shouted, "Time is up, the Blood Trial of Mt. Spirit Beast College is over. Group One has 260 people passed the trial, and Group Two has 45 people. Congratulations, people from Group One will become the students of the college, and the other group will become students-in-registration. Now, please follow the mentor into the college and book in your hostel."</seg>
       </tuv>
     </tu>
     <tu>
@@ -13473,6 +13497,14 @@ All of them were wearing masks of bronze-green beasts, with many of them having 
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20180819T080132Z" creationid="USER" creationdate="20180807T115643Z">
         <seg>Suddenly—</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>突然下方又冲上来一人，江逸目光一扫顿时一缩，身子躲在小胖子后面，压低声音说道：“别闹了，帮我挡挡。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="zhong" changedate="20181210T064255Z" creationid="zhong" creationdate="20181210T064255Z">
+        <seg>Suddenly a man rushed up from below. Jiang Yi's eyes suddenly shrank. He hid behind the fatty and said in a low voice, "Stop making trouble and screen me."</seg>
       </tuv>
     </tu>
     <tu>
