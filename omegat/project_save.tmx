@@ -906,6 +906,14 @@ Zhou Mingrui could not help but frown.</seg>
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“阁下，您能拉我们来到这里，拥有我们无法想象的伟力，您做的见证，不管是我，还是她，都不敢违背。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="leminhu" changedate="20181211T133614Z" creationid="leminhu" creationdate="20181211T133614Z">
+        <seg>"Sir, the fact that you brought us here showed that you have tremendous strength unimaginable to us. She and I, regardless of who, would not dare to disobey your witness."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“阁下，这是哪里？”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="cktalon" changedate="20181211T025558Z" creationid="jingh" creationdate="20181209T011621Z">
@@ -2176,8 +2184,8 @@ Zhou Mingrui gulped a mouthful of saliva and smiled.</seg>
       <tuv lang="ZH-CN">
         <seg>奥黛丽和阿尔杰正好相对而坐，处于最靠近上首的位置。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="leminhu" changedate="20181211T110437Z" creationid="leminhu" creationdate="20181211T110437Z">
-        <seg>Audrey and Alger sat face-to-face at the nearest seats to the head of the table.</seg>
+      <tuv lang="EN-US" changeid="leminhu" changedate="20181211T133053Z" creationid="leminhu" creationdate="20181211T110437Z">
+        <seg>Audrey and Alger sat face-to-face at the nearest seats to the Seat of Honour.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3581,8 +3589,8 @@ Zhou Mingrui, who was not unfamiliar with similar encounters, tried his best to 
       <tuv lang="ZH-CN">
         <seg>说这句话的时候，他将目光转向了端坐上首的周明瑞：</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="leminhu" changedate="20181211T133016Z" creationid="leminhu" creationdate="20181211T133016Z">
-        <seg>As he said, he swept his eyes towards Perspicacious Zhou who was sitting up straight at the Seat of Honour</seg>
+      <tuv lang="EN-US" changeid="leminhu" changedate="20181211T133058Z" creationid="leminhu" creationdate="20181211T133016Z">
+        <seg>As he said, he swept his eyes towards Perspicacious Zhou who was sitting up straight at the Seat of Honour.</seg>
       </tuv>
     </tu>
     <tu>
