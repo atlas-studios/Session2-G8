@@ -868,8 +868,8 @@ Zhou Mingrui could not help but frown.</seg>
       <tuv lang="ZH-CN">
         <seg>“这真是一次奇妙的体验……嗯，我一直期待着类似的事情，我是说，我喜欢神秘，喜欢超越自然的奇迹，不，我的重点，我的意思是，阁下，我该怎样做才能成为非凡者？”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="leminhu" changedate="20181211T095552Z" creationid="leminhu" creationdate="20181211T095552Z">
-        <seg>"This is such a wonderful experience......Yes, I have always been anticipating the happening of such events. I'm saying, I like mysteries and supernatural miracles. Nope, my point is, what I mean is that, Your Honour, what can I do to become an extraordinaire?</seg>
+      <tuv lang="EN-US" changeid="leminhu" changedate="20181211T132800Z" creationid="leminhu" creationdate="20181211T095552Z">
+        <seg>"This is such a wonderful experience......Yes, I have always been anticipating the happening of such events. I'm saying, I like mysteries and supernatural miracles. Nope, my point is, what I mean is that, Sir, what can I do to become an extraordinaire?</seg>
       </tuv>
     </tu>
     <tu>
@@ -900,8 +900,8 @@ Zhou Mingrui could not help but frown.</seg>
       <tuv lang="ZH-CN">
         <seg>“阁下，尝试结束了吗？可以让我们回去了吗？”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="leminhu" changedate="20181211T085352Z" creationid="leminhu" creationdate="20181211T085352Z">
-        <seg>"Your Honour, is this attempt finished yet? Can you allow us to go back?"</seg>
+      <tuv lang="EN-US" changeid="leminhu" changedate="20181211T132742Z" creationid="leminhu" creationdate="20181211T085352Z">
+        <seg>"Sir, is this attempt finished yet? Can you allow us to go back?"</seg>
       </tuv>
     </tu>
     <tu>
@@ -3575,6 +3575,14 @@ Zhou Mingrui, who was not unfamiliar with similar encounters, tried his best to 
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181208T034329Z" creationid="Jeremy" creationdate="20181208T034329Z">
         <seg>As she spoke, she packed the sixteen rye bread she had weighed into a brown paper bag that Zhou Mingrui had brought himself. She stretched out her right hand and said,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>说这句话的时候，他将目光转向了端坐上首的周明瑞：</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="leminhu" changedate="20181211T133016Z" creationid="leminhu" creationdate="20181211T133016Z">
+        <seg>As he said, he swept his eyes towards Perspicacious Zhou who was sitting up straight at the Seat of Honour</seg>
       </tuv>
     </tu>
     <tu>
