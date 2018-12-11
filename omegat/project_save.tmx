@@ -212,8 +212,8 @@ Zhou Mingrui could not help but frown.</seg>
       <tuv lang="ZH-CN">
         <seg>“先生，你说的我都知道，甚至知道更多，比如值夜者，比如代罚者，比如机械之心，但是，我不想失去自由。”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="leminhu" changedate="20181211T115058Z" creationid="leminhu" creationdate="20181211T115058Z">
-        <seg>"Sir, I knew all what you had said, I even knew more, including the nighthawks, scapegoats</seg>
+      <tuv lang="EN-US" changeid="leminhu" changedate="20181211T115335Z" creationid="leminhu" creationdate="20181211T115058Z">
+        <seg>"Sir, I knew all what you had said, I even knew more, including the nighthawks, scapegoats and robotic minds, but I don't want to lose my freedom.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3911,6 +3911,14 @@ Zhou Mingrui, who was not unfamiliar with similar encounters, tried his best to 
       </tuv>
       <tuv lang="EN-US" changeid="leminhu" changedate="20181211T111618Z" creationid="leminhu" creationdate="20181211T111618Z">
         <seg>Alger inspected the surroundings, and after a few seconds of silence, he suddenly opened his mouth, and answered Audrey's question in place of Perspicacious Zhou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>阿尔杰低笑了一声，含糊道：</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="leminhu" changedate="20181211T115652Z" creationid="leminhu" creationdate="20181211T115652Z">
+        <seg>Alger gave a low-sounding laugh, and said vaguely,</seg>
       </tuv>
     </tu>
     <tu>
