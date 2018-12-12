@@ -268,8 +268,8 @@ Zhou Mingrui could not help but frown.</seg>
       <tuv lang="ZH-CN">
         <seg>“你们可以称呼我，愚者。”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="leminhu" changedate="20181212T115743Z" creationid="leminhu" creationdate="20181212T063952Z">
-        <seg>"You can call me 'Fool'."</seg>
+      <tuv lang="EN-US" changeid="leminhu" changedate="20181212T122600Z" creationid="leminhu" creationdate="20181212T063952Z">
+        <seg>"You can call me 'The Fool'."</seg>
       </tuv>
     </tu>
     <tu>
@@ -780,8 +780,8 @@ Zhou Mingrui could not help but frown.</seg>
       <tuv lang="ZH-CN">
         <seg>“愚者。”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="leminhu" changedate="20181212T115814Z" creationid="leminhu" creationdate="20181211T135403Z">
-        <seg>"Fool."</seg>
+      <tuv lang="EN-US" changeid="leminhu" changedate="20181212T122542Z" creationid="leminhu" creationdate="20181211T135403Z">
+        <seg>"The Fool."</seg>
       </tuv>
     </tu>
     <tu>
@@ -2576,6 +2576,14 @@ Zhou Mingrui silently mumbled and decided that he would not purchase any additio
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181209T145116Z" creationid="jingh" creationdate="20181208T155615Z">
         <seg>Zhou Mingrui's lips twitched and asked her sincerely,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>周明瑞只是微笑，并不开口，将目光投向了“倒吊人”，一副考一考你的模样。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="leminhu" changedate="20181212T123051Z" creationid="leminhu" creationdate="20181212T122535Z">
+        <seg>Zhou Mingrui only smiled lightly and did not open his mouth. He swept his eyes towards "The Hanged Man" and looked at him quizzically. </seg>
       </tuv>
     </tu>
     <tu>
