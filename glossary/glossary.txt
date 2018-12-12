@@ -631,3 +631,4 @@
 值夜者	nighthawks
 上首	Seat of Honour
 鬼鲨血	blood of ghost shark
+主牌	Major Arcana cards
