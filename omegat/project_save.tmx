@@ -948,8 +948,8 @@ Zhou Mingrui could not help but frown.</seg>
       <tuv lang="ZH-CN">
         <seg>“明白了。”奥黛丽点头认可，接着又强调道，“我的意思不是这个，我不是质疑塔罗牌，我是听说罗塞尔大帝实际上制作的是另外一副牌，隐秘的，象征着某些未知力量的纸牌，一共有二十二张，完成之后，他参照这个，才发明了塔罗牌的二十二张主牌，作为游戏工具，这个说法准确吗？”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="leminhu" changedate="20181212T122244Z" creationid="leminhu" creationdate="20181212T122244Z">
-        <seg>"Understood," Audrey nodded in agreement, and emphasized again,"I didn't mean to question the Tarot. I just heard that Roselle actually created another stack of 22 cards, which was kept secret and symbolises some mysterious forces. After he finished creating it, he used it as a reference in his invention of Tarot's 22 Major Arcana cards</seg>
+      <tuv lang="EN-US" changeid="leminhu" changedate="20181212T122336Z" creationid="leminhu" creationdate="20181212T122244Z">
+        <seg>"Understood," Audrey nodded in agreement, and emphasized again,"I didn't mean to question the Tarot. I just heard that Roselle actually created another stack of 22 cards, which was kept secret and symbolises some mysterious forces. After he finished creating it, he used it as a reference in his invention of Tarot's 22 Major Arcana cards, which were used as game tools. Is my saying correct?"</seg>
       </tuv>
     </tu>
     <tu>
@@ -3286,6 +3286,14 @@ Zhou Mingrui gulped a mouthful of saliva and smiled.</seg>
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>她看着周明瑞，似乎想从神秘的愚者先生那里得到答案。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="leminhu" changedate="20181212T122409Z" creationid="leminhu" creationdate="20181212T122409Z">
+        <seg>She looked at Zhou Mingrui, as if she wanted to get an answer from the mysterious Mr Fool.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>她眸中眼波流动，嘴角一点点上翘，忍不住站了起来，弯腰提上裙摆。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="(^_^)" changedate="20181212T033914Z" creationid="(^_^)" creationdate="20181212T033914Z">
@@ -5229,8 +5237,8 @@ Zhou Mingrui, who was not unfamiliar with similar encounters, tried his best to 
       <tuv lang="ZH-CN">
         <seg>这又是另一张主牌。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="leminhu" changedate="20181212T084010Z" creationid="leminhu" creationdate="20181212T084010Z">
-        <seg>Again, it's one of the main cards.</seg>
+      <tuv lang="EN-US" changeid="leminhu" changedate="20181212T122308Z" creationid="leminhu" creationdate="20181212T084010Z">
+        <seg>Again, it's one of the Major Arcana cards.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5341,8 +5349,8 @@ Zhou Mingrui, who was not unfamiliar with similar encounters, tried his best to 
       <tuv lang="ZH-CN">
         <seg>这是塔罗牌二十二张主牌之一。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="leminhu" changedate="20181212T083703Z" creationid="leminhu" creationdate="20181212T083703Z">
-        <seg>This is one of the 22 main cards in the Tarot.</seg>
+      <tuv lang="EN-US" changeid="leminhu" changedate="20181212T122256Z" creationid="leminhu" creationdate="20181212T083703Z">
+        <seg>This is one of the 22 Major Arcana cards in the Tarot.</seg>
       </tuv>
     </tu>
     <tu>
