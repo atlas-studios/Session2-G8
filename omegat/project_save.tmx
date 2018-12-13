@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-4.1.5" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -172,6 +172,14 @@ Zhou Mingrui guessed as he turned around and walked towards a cracked dressing m
       </tuv>
       <tuv lang="EN-US" changeid="jingh" changedate="20181208T155325Z" creationid="jingh" creationdate="20181208T155159Z">
         <seg>"Don't mind this, it's just that I like doing this. But I have to say, my divination and interpretation can be really accurate sometimes. I'm serious..."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“不，从现场痕迹看，他们是自杀，韦尔奇先生用头撞墙，撞了很多下，撞得满墙都是血，娜娅女士将自己淹死在了一个水盆里，嗯，用来洗脸的那种。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="zhong" changedate="20181213T033542Z" creationid="zhong" creationdate="20181213T033524Z">
+        <seg>"No, from the scene, they committed suicide. Mr. Welch hit the wall with his head, many times, the wall is covered with blood. Ms. Naya drowned herself in a basin. Well, the kind used to wash face."</seg>
       </tuv>
     </tu>
     <tu>
@@ -722,6 +730,14 @@ Zhou Mingrui could not help but frown.</seg>
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“娜娅女士也过世了。”灰眸警官颇为平静地说道，“他们两人死在韦尔奇先生的住所内。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="zhong" changedate="20181213T033530Z" creationid="zhong" creationdate="20181213T033341Z">
+        <seg>"Ms. Naya passed away too." The gray-eyed police officer said quite calmly, "Both died in Mr. Welch's house."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“它将是真正的霸主，它将征服大海！”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="(^_^)" changedate="20181212T090927Z" creationid="(^_^)" creationdate="20181212T090927Z">
@@ -934,6 +950,14 @@ Zhou Mingrui could not help but frown.</seg>
       </tuv>
       <tuv lang="EN-US" changeid="jingh" changedate="20181208T183730Z" creationid="jingh" creationdate="20181208T183644Z">
         <seg>"In the name of the Hall family, I command you to awaken!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“我们也这么认为，但尸检结果和现场情况都排除了药物和外力等因素，他们，我是说韦尔奇先生、娜娅女士都没有反抗的痕迹。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="zhong" changedate="20181213T034004Z" creationid="zhong" creationdate="20181213T034004Z">
+        <seg>"We believe so too, but the autopsy results and the situation at the scene exclude factors such as drugs and external forces. They, I mean Mr. Welch and Ms. Naya, shown no signs of resistance."</seg>
       </tuv>
     </tu>
     <tu>
@@ -1370,6 +1394,14 @@ Zhou Mingrui could not help but frown.</seg>
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“被杀害的？”克莱恩隐约有了猜测。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="zhong" changedate="20181213T033349Z" creationid="zhong" creationdate="20181213T033349Z">
+        <seg>"Killed?" Klein had a vague guess.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“要占卜吗？”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181208T052845Z" creationid="Jeremy" creationdate="20181208T052845Z">
@@ -1494,6 +1526,14 @@ Zhou Mingrui could not help but frown.</seg>
       </tuv>
       <tuv lang="EN-US" changeid="zhong" changedate="20181213T025823Z" creationid="zhong" creationdate="20181213T025823Z">
         <seg>"These three officers have something to ask you."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“这不可能……”克莱恩听得汗毛耸立，似乎能够想象那诡异的场景。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="zhong" changedate="20181213T033656Z" creationid="zhong" creationdate="20181213T033656Z">
+        <seg>"It's impossible..." Klein's hairs stood up and seemed to be able to imagine the eerie scene.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2094,6 +2134,14 @@ Zhou Mingrui could not help but frown.</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181208T051840Z" creationid="Jeremy" creationdate="20181208T051840Z">
         <seg>Why would people protest its act?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>也许是自杀……</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="zhong" changedate="20181213T033405Z" creationid="zhong" creationdate="20181213T033405Z">
+        <seg>Perhaps it is suicide...</seg>
       </tuv>
     </tu>
     <tu>
@@ -3614,6 +3662,14 @@ Zhou Mingrui gulped a mouthful of saliva and smiled.</seg>
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>女孩跪在椅子上，将脸埋进了装满水的洗脸盆里，棕发柔顺披下，随风摇晃，整个人却一动不动；韦尔奇倒在地上，双眼死死盯着天花板，额头完全粉碎，遍布血污，而墙上被撞击的痕迹一处又一处，鲜血淋漓……</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="zhong" changedate="20181213T033812Z" creationid="zhong" creationdate="20181213T033812Z">
+        <seg>The girl knelt on her chair and buried her face in the basin filled with water. Her soft brown hair swaying in the wind, but the whole person remained motionless. Welch fell to the ground and stared at the ceiling with his eyes. His forehead was completely shattered and covered with blood stains, while the traces of the impact on the wall were dripping with blood one after another...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>她又拿起第三张牌，置于周明瑞右手边：</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181209T144837Z" creationid="jingh" creationdate="20181208T064212Z">
@@ -4676,6 +4732,22 @@ With that thought, Zhou Mingrui went closer.</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181208T033923Z" creationid="Jeremy" creationdate="20181208T033923Z">
         <seg>As Wendy took the rye bread, she sighed,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>灰眸警官嘴角动了一下道：</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="zhong" changedate="20181213T033851Z" creationid="zhong" creationdate="20181213T033851Z">
+        <seg>The gray-eyed officer continued,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>灰眸警官摇了摇头：</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="zhong" changedate="20181213T033429Z" creationid="zhong" creationdate="20181213T033429Z">
+        <seg>The gray-eyed officer shook his head:</seg>
       </tuv>
     </tu>
     <tu>
