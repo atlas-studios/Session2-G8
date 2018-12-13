@@ -1324,8 +1324,8 @@ Zhou Mingrui could not help but frown.</seg>
       <tuv lang="ZH-CN">
         <seg>“警察。”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="zhong" changedate="20181213T024702Z" creationid="zhong" creationdate="20181213T024702Z">
-        <seg>"A police officer."</seg>
+      <tuv lang="EN-US" changeid="zhong" changedate="20181213T025911Z" creationid="zhong" creationdate="20181213T024702Z">
+        <seg>"A policeman."</seg>
       </tuv>
     </tu>
     <tu>
@@ -1414,6 +1414,14 @@ Zhou Mingrui could not help but frown.</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181207T072119Z" creationid="Jeremy" creationdate="20181207T072119Z">
         <seg>"This…"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“这三位警官有事情询问你。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="zhong" changedate="20181213T025823Z" creationid="zhong" creationdate="20181213T025823Z">
+        <seg>"These three officers have something to ask you."</seg>
       </tuv>
     </tu>
     <tu>
@@ -5211,6 +5219,14 @@ Zhou Mingrui, who was not unfamiliar with similar encounters, tried his best to 
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>警官？克莱恩条件反射般看向另外三人的肩章，发现两位有三颗银制六角星，一位有两颗，看起来都比只有三个V型标签的比奇.蒙巴顿高级。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="zhong" changedate="20181213T030145Z" creationid="zhong" creationdate="20181213T025859Z">
+        <seg>Officer? Klein looked at the shoulder badges of the other three in a conditionally and found that two of them have three silver hexagons and one has two, both of which looked superior to Bicky Mombarton, who has only three V-tags.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>让手中这枚国王乔治三世登基时才发行的铜便士在指尖翻动了几圈后，周明瑞捻着它，塞入了瓦斯计费器竖直张开的细长“嘴巴”里。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181207T075036Z" creationid="Jeremy" creationdate="20181207T075036Z">
@@ -5909,8 +5925,8 @@ Zhou Mingrui, who was not unfamiliar with similar encounters, tried his best to 
       <tuv lang="ZH-CN">
         <seg>门外安静了两秒，有略显尖细的嗓音用阿霍瓦腔喊道：</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="zhong" changedate="20181213T024507Z" creationid="zhong" creationdate="20181213T024507Z">
-        <seg>The other side was quiet for two seconds,  a slightly sharp voice replied in Awwa's accent:</seg>
+      <tuv lang="EN-US" changeid="zhong" changedate="20181213T025746Z" creationid="zhong" creationdate="20181213T024507Z">
+        <seg>The other side was quiet for two seconds,  a slightly sharp voice replied in Awwa's accent,</seg>
       </tuv>
     </tu>
     <tu>
@@ -5919,6 +5935,14 @@ Zhou Mingrui, who was not unfamiliar with similar encounters, tried his best to 
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181207T102934Z" creationid="Jeremy" creationdate="20181207T102934Z">
         <seg>The corridor outside was pitch black. Silhouettes were barely accentuated by the crimson moonlight from the window at the end of the corridor. They looked like a pair of monster eyes that silently observed the living late into the night.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>门外站着四位穿黑色有白格制服、戴徽章软帽的警察，留着棕黄络腮胡的比奇.蒙巴顿咳嗽了一声，对克莱恩道：</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="zhong" changedate="20181213T025739Z" creationid="zhong" creationdate="20181213T025739Z">
+        <seg>Outside the door stood four policemen in black uniforms with white grids, badges and bonnets. Bicky Mombarton, the one with a brown beard, coughed and said to Klein,</seg>
       </tuv>
     </tu>
     <tu>
