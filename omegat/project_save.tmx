@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-4.1.5" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1322,6 +1322,14 @@ Zhou Mingrui could not help but frown.</seg>
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“谁？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="zhong" changedate="20181213T023851Z" creationid="zhong" creationdate="20181213T023851Z">
+        <seg>"Who is it?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“谁？”奥黛丽刷地停止，摆好文雅的姿态。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="(^_^)" changedate="20181212T035132Z" creationid="(^_^)" creationdate="20181212T035132Z">
@@ -2430,6 +2438,14 @@ Zhou Mingrui could not help but frown.</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181208T032335Z" creationid="Jeremy" creationdate="20181208T032335Z">
         <seg>Klein was so concerned about his impending interview that it became instinct. When he was not focused enough, he habitually wore his only decent set of clothing.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>克莱恩正想着原主神秘自杀事件和可能遭遇的未知危险，听到突如其来的敲门声后，下意识便拉开抽屉，将那把左轮手枪拿了出来，并满含警惕地开口询问。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="zhong" changedate="20181213T024255Z" creationid="zhong" creationdate="20181213T024255Z">
+        <seg>Klein was thinking about the mysterious suicide of the original owner of this body and the unknown danger he might encounter when he heard the sudden knock on the door. He subconsciously opened the drawer, took out the revolver, and asked with vigilance.</seg>
       </tuv>
     </tu>
     <tu>
