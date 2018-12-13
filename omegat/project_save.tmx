@@ -3150,8 +3150,8 @@ Zhou Mingrui silently mumbled and decided that he would not purchase any additio
       <tuv lang="ZH-CN">
         <seg>可他刚触摸到把手，动作忽然停顿了下来。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="zhong" changedate="20181213T105551Z" creationid="zhong" creationdate="20181213T105551Z">
-        <seg>But as soon as he reached the handle, his suddenly stopped.</seg>
+      <tuv lang="EN-US" changeid="zhong" changedate="20181213T105904Z" creationid="zhong" creationdate="20181213T105551Z">
+        <seg>But as soon as he reached the handle, he suddenly stopped.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3160,6 +3160,14 @@ Zhou Mingrui silently mumbled and decided that he would not purchase any additio
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181208T055235Z" creationid="Jeremy" creationdate="20181208T055235Z">
         <seg>Unfortunately, he was betrayed in his old age. In the year 1198 of the Fifth Epoch, he was assassinated by the combined forces of the Church of the Eternal Blazing Sun, the former Intis royal family—the Sauron family, and other aristocrats. He eventually died in the White Maple Palace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>各种念头在克莱恩脑海打架，让他怀疑警察还在暗中“盯”着自己，观察反应。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="zhong" changedate="20181213T112105Z" creationid="zhong" creationdate="20181213T105900Z">
+        <seg>All kinds of thoughts rushed into Klein's mind, he suspected that the police were still secretly "staring" at him, observing his reaction.</seg>
       </tuv>
     </tu>
     <tu>
