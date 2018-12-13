@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-4.1.5" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -964,8 +964,8 @@ Zhou Mingrui could not help but frown.</seg>
       <tuv lang="ZH-CN">
         <seg>“我会给你一个地址，等我收到鬼鲨血，就回寄配方给你，或者直接在这里告诉你。”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="leminhu" changedate="20181211T132517Z" creationid="leminhu" creationdate="20181211T132517Z">
-        <seg>"I'll give you an address. I'll mail you the formula to you, or tell you directly here, once I received the blood of the ghost shark."</seg>
+      <tuv lang="EN-US" changeid="leminhu" changedate="20181213T033804Z" creationid="leminhu" creationdate="20181211T132517Z">
+        <seg>"I'll give you an address. I'll mail you the formula to you, or tell you directly here, once I received the blood of the Ghost Shark."</seg>
       </tuv>
     </tu>
     <tu>
@@ -1364,8 +1364,8 @@ Zhou Mingrui could not help but frown.</seg>
       <tuv lang="ZH-CN">
         <seg>“至于保证，我想如果有这位神秘的阁下的见证，你和我都会足够放心。”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="leminhu" changedate="20181211T132724Z" creationid="leminhu" creationdate="20181211T132724Z">
-        <seg>"As for promise, I think that both you and I would be rest assured under the witness of the mysterious sir."</seg>
+      <tuv lang="EN-US" changeid="leminhu" changedate="20181213T033820Z" creationid="leminhu" creationdate="20181211T132724Z">
+        <seg>"As for promises, I think that both you and I would be rest assured under the witness of the mysterious sir."</seg>
       </tuv>
     </tu>
     <tu>
@@ -1740,8 +1740,8 @@ Zhou Mingrui could not help but frown.</seg>
       <tuv lang="ZH-CN">
         <seg>“阁下，您能拉我们来到这里，拥有我们无法想象的伟力，您做的见证，不管是我，还是她，都不敢违背。”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="leminhu" changedate="20181211T133614Z" creationid="leminhu" creationdate="20181211T133614Z">
-        <seg>"Sir, the fact that you brought us here showed that you have tremendous strength unimaginable to us. She and I, regardless of who, would not dare to disobey your witness."</seg>
+      <tuv lang="EN-US" changeid="leminhu" changedate="20181213T034028Z" creationid="leminhu" creationdate="20181211T133614Z">
+        <seg>"Sir, the fact that you brought us here showed that you have tremendous strength unimaginable to us. Neither one of us would dare to violate the promise with you as witness."</seg>
       </tuv>
     </tu>
     <tu>
@@ -1812,8 +1812,8 @@ Zhou Mingrui could not help but frown.</seg>
       <tuv lang="ZH-CN">
         <seg>“鬼鲨的血，至少100毫升鬼鲨的血。”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="leminhu" changedate="20181211T132041Z" creationid="leminhu" creationdate="20181211T132041Z">
-        <seg>"The blood of ghost shark, at least 100 milliliters of it."</seg>
+      <tuv lang="EN-US" changeid="leminhu" changedate="20181213T033745Z" creationid="leminhu" creationdate="20181211T132041Z">
+        <seg>"The Blood of Ghost Sharks, at least 100 milliliters of it."</seg>
       </tuv>
     </tu>
     <tu>
@@ -3030,8 +3030,8 @@ Zhou Mingrui silently mumbled and decided that he would not purchase any additio
       <tuv lang="ZH-CN">
         <seg>周明瑞听得愣了一下，放在青铜长桌上的手指轻轻敲动起来，脑海内霍然闪过了之前占卜的内容。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="leminhu" changedate="20181212T070055Z" creationid="leminhu" creationdate="20181211T135023Z">
-        <seg>Zhou Mingrui startled for a while, his fingers, placed on the bronze table, started to strike softly. The earlier divination on flashed across his mind suddenly.</seg>
+      <tuv lang="EN-US" changeid="leminhu" changedate="20181213T034127Z" creationid="leminhu" creationdate="20181211T135023Z">
+        <seg>Zhou Mingrui startled for a while, his fingers, placed on the bronze table, started to strike softly. The contents of the earlier divination flashed across his mind suddenly.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5453,8 +5453,8 @@ Zhou Mingrui, who was not unfamiliar with similar encounters, tried his best to 
       <tuv lang="ZH-CN">
         <seg>说到这里，他顿了顿，语气轻和而平淡地开口：</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="leminhu" changedate="20181211T135331Z" creationid="leminhu" creationdate="20181211T135331Z">
-        <seg>As he said till here, he pulsed for a while, and said amiably and calmly, </seg>
+      <tuv lang="EN-US" changeid="leminhu" changedate="20181213T034209Z" creationid="leminhu" creationdate="20181211T135331Z">
+        <seg>As he said till here, he paused for a while, and said amiably and calmly, </seg>
       </tuv>
     </tu>
     <tu>
@@ -5741,8 +5741,8 @@ Zhou Mingrui, who was not unfamiliar with similar encounters, tried his best to 
       <tuv lang="ZH-CN">
         <seg>这个时候，她才发现自己竟然一直遗忘了某个问题，太不够礼貌，忙又问道：</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="leminhu" changedate="20181211T134334Z" creationid="leminhu" creationdate="20181211T134334Z">
-        <seg>At that moment, she then realised that she was all too impolite, to have actually forgotten all along to ask some question. She asked hurriedly,</seg>
+      <tuv lang="EN-US" changeid="leminhu" changedate="20181213T034109Z" creationid="leminhu" creationdate="20181211T134334Z">
+        <seg>At that moment, she then realised that she was all too impolite, to have actually forgotten all along to ask a particular question. She asked hurriedly,</seg>
       </tuv>
     </tu>
     <tu>
@@ -6293,8 +6293,8 @@ Zhou Mingrui, who was not unfamiliar with similar encounters, tried his best to 
       <tuv lang="ZH-CN">
         <seg>阿尔杰像是早有准备，沉声回答道：</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="leminhu" changedate="20181211T131944Z" creationid="leminhu" creationdate="20181211T131944Z">
-        <seg>Alger looked like he was already prepared, and rumbled, </seg>
+      <tuv lang="EN-US" changeid="leminhu" changedate="20181213T033709Z" creationid="leminhu" creationdate="20181211T131944Z">
+        <seg>Alger looked like he was already prepared, and said in a deep voice</seg>
       </tuv>
     </tu>
     <tu>
