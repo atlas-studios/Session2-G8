@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-4.1.5" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -356,8 +356,8 @@ Zhou Mingrui could not help but frown.</seg>
       <tuv lang="ZH-CN">
         <seg>“你知道的，人类想要成为真正的非凡者，只能依靠魔药，而魔药的名称来自‘亵渎石板’，经过巨人语、精灵语、古赫密斯语、古弗萨克语、当代赫密斯语地不断转译，早就有了符合时代特征的变化，名称不是重点，重点是它能否代表这份魔药的‘核心象征’。”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="leminhu" changedate="20181211T125614Z" creationid="leminhu" creationdate="20181211T123027Z">
-        <seg>"You knew that mankind can only depend on potions to become real extraordinaires, while the names of potions come from "blasphemy slate". After constant translations into Jotun, Elvish, ancient and modern Hermes, and ancient Feysac, it has undergone changes corresponding to the eras. The essence is not in their names, but whether they portray the 'core significances' of the potions."</seg>
+      <tuv lang="EN-US" changeid="leminhu" changedate="20181213T033149Z" creationid="leminhu" creationdate="20181211T123027Z">
+        <seg>"You knew that mankind can only depend on potions to become real extraordinaires, while the names of potions come from "blasphemy slate". After constant translations into Jotun, Elvish, ancient and modern Hermes, and ancient Feysac, they have undergone changes corresponding to the eras. The essence is not in their names, but whether they portray the 'core characteristics' of the potions."</seg>
       </tuv>
     </tu>
     <tu>
@@ -956,8 +956,8 @@ Zhou Mingrui could not help but frown.</seg>
       <tuv lang="ZH-CN">
         <seg>“我手中的序列9配方，一份叫做‘水手’，它能让你拥有出色的平衡能力，哪怕在暴风雨笼罩的船上，也能自由行走如大地，你还能获得卓越的力量，以及隐藏于皮肤下的幻鳞，这会让你像鱼一样难以被抓住，在水中灵活得仿佛海族，哪怕不用任何装备，也能轻松地潜水至少十分钟。”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="leminhu" changedate="20181211T130634Z" creationid="leminhu" creationdate="20181211T130219Z">
-        <seg>I have a potion named "Sailor", it can enable you to have excellent balancing capabilities. Even if you were on a boat in a rainstorm, you could walk about freely as though you are on land. You could also gain immense strength and imaginary scales under your skins, which could enable you to swim like a fish and hard to be caught. You could move flexibly just like the marine animals, and could easily submerge underwater for at least ten minutes without any equipments." </seg>
+      <tuv lang="EN-US" changeid="leminhu" changedate="20181213T033410Z" creationid="leminhu" creationdate="20181211T130219Z">
+        <seg>I have a potion named "Sailor", it can enable you to have excellent balancing capabilities. Even if you were on a boat in a rainstorm, you can walk about freely as though you are on land. You will also gain immense strength and illusory scales under your skins. They will enable you to swim like a fish and be difficult to catch. You will move flexibly just like the marine animals. Even without any equipments, you will be able to easily submerge underwater for at least ten minutes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1148,8 +1148,8 @@ Zhou Mingrui could not help but frown.</seg>
       <tuv lang="ZH-CN">
         <seg>“没有别的办法了吗？”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="leminhu" changedate="20181211T121044Z" creationid="leminhu" creationdate="20181211T121044Z">
-        <seg>"Are there no more ideas?"</seg>
+      <tuv lang="EN-US" changeid="leminhu" changedate="20181213T032847Z" creationid="leminhu" creationdate="20181211T121044Z">
+        <seg>"Are there no more solutions?"</seg>
       </tuv>
     </tu>
     <tu>
@@ -5341,8 +5341,8 @@ Zhou Mingrui, who was not unfamiliar with similar encounters, tried his best to 
       <tuv lang="ZH-CN">
         <seg>见对方不置可否，他才看回奥黛丽，斟酌着说道：</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="leminhu" changedate="20181212T070055Z" creationid="leminhu" creationdate="20181211T121538Z">
-        <seg>Seeing the Zhou Mingrui did not respond, he looked back at Audrey and said with deliberation,</seg>
+      <tuv lang="EN-US" changeid="leminhu" changedate="20181213T032942Z" creationid="leminhu" creationdate="20181211T121538Z">
+        <seg>Seeing that Zhou Mingrui did not respond, he looked back at Audrey and said with deliberation,</seg>
       </tuv>
     </tu>
     <tu>
@@ -6229,8 +6229,8 @@ Zhou Mingrui, who was not unfamiliar with similar encounters, tried his best to 
       <tuv lang="ZH-CN">
         <seg>阿尔杰往后微靠，语气不快不慢地回答：</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="leminhu" changedate="20181211T122555Z" creationid="leminhu" creationdate="20181211T122555Z">
-        <seg>Alger leaned back slightly, and responded at a normal pace,</seg>
+      <tuv lang="EN-US" changeid="leminhu" changedate="20181213T032950Z" creationid="leminhu" creationdate="20181211T122555Z">
+        <seg>Alger leaned back slightly, and responded at unhurriedly,</seg>
       </tuv>
     </tu>
     <tu>
