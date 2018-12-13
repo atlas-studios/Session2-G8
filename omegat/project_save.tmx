@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-4.1.5" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -350,6 +350,14 @@ Zhou Mingrui could not help but frown.</seg>
       </tuv>
       <tuv lang="EN-US" changeid="leminhu" changedate="20181211T111628Z" creationid="leminhu" creationdate="20181211T111628Z">
         <seg>"Are you a Ruen?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“你最后一次见到韦尔奇先生或者娜娅女士是什么时候？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="zhong" changedate="20181213T034030Z" creationid="zhong" creationdate="20181213T034030Z">
+        <seg>"When was the last time you saw Mr. Welch or Ms. Naya?"</seg>
       </tuv>
     </tu>
     <tu>
@@ -782,6 +790,14 @@ Zhou Mingrui could not help but frown.</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181208T044701Z" creationid="Jeremy" creationdate="20181208T044701Z">
         <seg>"Muffins and eel soup make the perfect combination!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“应该是6月26日，我们共同解读了新的一篇笔记内容，之后，我就回到家里，为30号的面试做准备，嗯，廷根大学历史系的面试。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="zhong" changedate="20181213T034350Z" creationid="zhong" creationdate="20181213T034350Z">
+        <seg>"It should be June 26,  we were reading a new chapter in the note. Then I went home to prepare for the interview on June 30, well, the interview was for the History Department of Tingen University."</seg>
       </tuv>
     </tu>
     <tu>
@@ -2050,6 +2066,14 @@ Zhou Mingrui could not help but frown.</seg>
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>不等克莱恩再次开口，他步入房间，假做随意地问道：</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="zhong" changedate="20181213T034018Z" creationid="zhong" creationdate="20181213T034018Z">
+        <seg>Before Klein could speak again, he stepped into the room and asked, pretending to be casual,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>不管怎么样，自己都要试一试！</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181207T080552Z" creationid="Jeremy" creationdate="20181207T080552Z">
@@ -2454,6 +2478,14 @@ Zhou Mingrui could not help but frown.</seg>
       </tuv>
       <tuv lang="EN-US" changeid="leminhu" changedate="20181212T081042Z" creationid="leminhu" creationdate="20181212T080945Z">
         <seg>He stopped his striking actions, and greeted the four anticipating yet anxious eyes with a smile,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>他边说边用眼神示意着有两颗银星的同伴。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="zhong" changedate="20181213T034104Z" creationid="zhong" creationdate="20181213T034104Z">
+        <seg>As he spoke, he gestured with his eyes to his colleague with two silver hexagons.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2928,6 +2960,14 @@ Zhou Mingrui silently mumbled and decided that he would not purchase any additio
       </tuv>
       <tuv lang="EN-US" changeid="leminhu" changedate="20181213T020129Z" creationid="leminhu" creationdate="20181211T094555Z">
         <seg>Not identifying any ill-intentions in his words, Audrey heaved a sigh of relief. She believed that since a gentleman who was capable of such miraculous things had made his promises, then he would definitely abide by it stringently.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>听到问题，克莱恩念头急转，思索着回答：</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="zhong" changedate="20181213T034242Z" creationid="zhong" creationdate="20181213T034242Z">
+        <seg>When he heard the question, Klein thought about it and answered it thoughtfully,</seg>
       </tuv>
     </tu>
     <tu>
@@ -4010,6 +4050,14 @@ Zhou Mingrui gulped a mouthful of saliva and smiled.</seg>
       </tuv>
       <tuv lang="EN-US" changeid="leminhu" changedate="20181212T070055Z" creationid="leminhu" creationdate="20181211T122325Z">
         <seg>Series nine? Zhou Mingrui muttered to himself.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>廷根市号称大学之城，有廷根、霍伊两所大学，有技术学校、大律师学院、商学院，仅次于首都贝克兰德。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="zhong" changedate="20181213T034607Z" creationid="zhong" creationdate="20181213T034607Z">
+        <seg>Tingen is known as the city of universities. There are two universities, Tingen and Khoy. There are technical schools, Law College and Business College. It is second only to Backlund, the capital.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6071,6 +6119,14 @@ Zhou Mingrui, who was not unfamiliar with similar encounters, tried his best to 
       </tuv>
       <tuv lang="EN-US" changeid="(^_^)" changedate="20181212T093343Z" creationid="(^_^)" creationdate="20181212T093343Z">
         <seg>The giant vessel was departing from the harbor. Everyone was shocked when the two main cannons at the front of the shit fired at uninhabited islands in front.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>那是位年轻的警官，看起来和克莱恩差不多大小，黑鬓绿瞳，长相不错，有股诗人的浪漫气质。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="zhong" changedate="20181213T034224Z" creationid="zhong" creationdate="20181213T034224Z">
+        <seg>He is a young police officer, looked about the same age as Klein, with black sideburns and green pupils. He is good looking and with a poet's romantic temperament.</seg>
       </tuv>
     </tu>
     <tu>
