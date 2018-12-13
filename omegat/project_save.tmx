@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-4.1.5" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6007,6 +6007,14 @@ Zhou Mingrui, who was not unfamiliar with similar encounters, tried his best to 
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181208T044016Z" creationid="Jeremy" creationdate="20181208T044016Z">
         <seg>After stuffing his revolver back into his pocket, Zhou Mingrui kept his left hand in there.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>鉴于留住人才的需要，经过多年的摸索，王国高等教育委员会在讲师、副教授、教授的三级体系里加入了资深副教授，给予学术水平高或资历足够老，却又没法成为教授的先生女士们。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="zhong" changedate="20181213T032738Z" creationid="zhong" creationdate="20181213T032738Z">
+        <seg>Due to the need of retaining talents, the Higher Education Commission in the kingdom had added senior associate professors in the three-level system of lecturers, associate professors and professors after years of exploration. This title is given to anyone with high academic level or with sufficient seniority, but did not make it to the position of "professor".</seg>
       </tuv>
     </tu>
     <tu>
