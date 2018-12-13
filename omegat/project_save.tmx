@@ -104,8 +104,8 @@
       <tuv lang="ZH-CN">
         <seg>“一般来说，遭遇这种事件，当事人全部死掉是常态。”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="zhong" changedate="20181213T040847Z" creationid="zhong" creationdate="20181213T040847Z">
-        <seg>"Generally speaking, it is normal for all the parties to die in such an event."</seg>
+      <tuv lang="EN-US" changeid="zhong" changedate="20181213T044730Z" creationid="zhong" creationdate="20181213T040847Z">
+        <seg>"Generally speaking, the norm is for all the parties involved to die in such an event."</seg>
       </tuv>
     </tu>
     <tu>
@@ -2910,8 +2910,8 @@ Zhou Mingrui silently mumbled and decided that he would not purchase any additio
       <tuv lang="ZH-CN">
         <seg>全部死掉是常态？很高兴我还活着？很幸运我还活着？</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="zhong" changedate="20181213T041707Z" creationid="zhong" creationdate="20181213T040946Z">
-        <seg>It is normal for everyone to die together? Very glad that I'm alive? Fortunate that I'm still alive?</seg>
+      <tuv lang="EN-US" changeid="zhong" changedate="20181213T044746Z" creationid="zhong" creationdate="20181213T040946Z">
+        <seg>The norm is for everyone to die together? Very glad that I'm alive? Fortunate that I'm still alive?</seg>
       </tuv>
     </tu>
     <tu>
@@ -5406,6 +5406,14 @@ Zhou Mingrui, who was not unfamiliar with similar encounters, tried his best to 
       </tuv>
       <tuv lang="EN-US" changeid="jingh" changedate="20181209T011815Z" creationid="jingh" creationdate="20181209T011815Z">
         <seg>Chapter 6: Extraordinaire</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>第十章 常态</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="zhong" changedate="20181213T044758Z" creationid="zhong" creationdate="20181213T044758Z">
+        <seg>The Norm</seg>
       </tuv>
     </tu>
     <tu>
