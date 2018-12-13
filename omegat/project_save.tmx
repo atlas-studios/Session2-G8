@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-4.1.5" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -844,8 +844,8 @@ Zhou Mingrui could not help but frown.</seg>
       <tuv lang="ZH-CN">
         <seg>“想成为非凡者，就加入黑夜女神教会，风暴之主教会，或蒸汽与机械之神教会。”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="leminhu" changedate="20181211T112010Z" creationid="leminhu" creationdate="20181211T111731Z">
-        <seg>"If you want to become an extraordinaire, join the churches of either Evernight Goddess, Lord of Storms or God of Steam and Machinery</seg>
+      <tuv lang="EN-US" changeid="leminhu" changedate="20181213T032257Z" creationid="leminhu" creationdate="20181211T111731Z">
+        <seg>"If you want to become an extraordinaire, join the churches of either the Evernight Goddess, the Lord of Storms or the God of Steam and Machinery</seg>
       </tuv>
     </tu>
     <tu>
@@ -1332,8 +1332,8 @@ Zhou Mingrui could not help but frown.</seg>
       <tuv lang="ZH-CN">
         <seg>“虽然绝大多数人一生都见不到非凡，以至于怀疑教会也是同样的情况，甚至在几大教会内部，不少神职人员也有类似的想法，但我可以明确告诉你，在仲裁庭，在裁判所，在处刑机关，非凡者依旧存在，依旧在对抗着黑暗里生长的危险，只是数量和黑铁时代早期或之前相比，少了很多很多。”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="leminhu" changedate="20181211T114321Z" creationid="leminhu" creationdate="20181211T112402Z">
-        <seg>"The majority of us would not meet an extraordinaire for the whole of our lives. This has caused churches, and even some clergies within some of the biggest churches, to suspect the same. While this is the case, I am certain to tell you that extraordinaires still exist in courts, tribunals and execution agencies. They are still fighting against the danger of growing in the dark, only that their numbers are much fewer as compared to that before and during the early days of the Iron Age.</seg>
+      <tuv lang="EN-US" changeid="leminhu" changedate="20181213T032521Z" creationid="leminhu" creationdate="20181211T112402Z">
+        <seg>"The majority of us will not meet an extraordinaire for the whole of our lives. This has caused churches, and even some clergies within some of the biggest churches, to suspect the same. While this is the case, I am certain to tell you that extraordinaires still exist in courts, tribunals and execution agencies. They are still fighting against the dangers that grow in the dark, only that their numbers are much fewer as compared to that before and during the early days of the Iron Age.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3816,8 +3816,8 @@ Zhou Mingrui gulped a mouthful of saliva and smiled.</seg>
       <tuv lang="ZH-CN">
         <seg>少女往左看了看，又往右瞧一瞧，忍不住低声嘀咕道：</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="leminhu" changedate="20181211T110533Z" creationid="leminhu" creationdate="20181211T110533Z">
-        <seg>The girl looked about left and right, and cannot stop mumbling at a low voice,</seg>
+      <tuv lang="EN-US" changeid="leminhu" changedate="20181213T032249Z" creationid="leminhu" creationdate="20181211T110533Z">
+        <seg>The girl looked about left and right, and could not stop mumbling at a low voice,</seg>
       </tuv>
     </tu>
     <tu>
