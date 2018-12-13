@@ -632,3 +632,4 @@
 上首	Seat of Honour
 鬼鲨血	blood of ghost shark
 主牌	Major Arcana cards
+原主	original owner of this body
