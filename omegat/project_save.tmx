@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-4.1.5" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2506,6 +2506,14 @@ Zhou Mingrui could not help but frown.</seg>
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>一步步的通过自己的努力，短短几年，就成了那个部门的经理。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="zhong" changedate="20181214T051809Z" creationid="zhong" creationdate="20181214T051809Z">
+        <seg>In just a few years, he had became the manager of that department with his own efforts.. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>一片六角形的晶莹雪花浮现于阿尔杰的掌心，接着迅速变淡，直至不见，似乎内缩于了血肉。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="leminhu" changedate="20181214T015633Z">
@@ -2814,6 +2822,14 @@ Zhou Mingrui could not help but frown.</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181209T150220Z">
         <seg>As a result, this star burst with splendid light as well.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>人到中年，有些微胖，却很和蔼。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="zhong" changedate="20181214T050652Z" creationid="zhong" creationdate="20181214T050652Z">
+        <seg>He was in his middle age had grown slightly fatter. But still, he was kind.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4566,6 +4582,14 @@ Zhou Mingrui gulped a mouthful of saliva and smiled.</seg>
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>在所有人以为他要正式进入管理层，接手整个公司的时候，陈子新又突然辞职了，申请了出国留学。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="zhong" changedate="20181214T051913Z" creationid="zhong" creationdate="20181214T051913Z">
+        <seg>When everyone believed that he was going to formally enter the management department and take charge of the whole company, Chen Zixin resigned out of a sudden and applied to study abroad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>在这六月的下午，克莱恩遍体发寒。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="zhong" changedate="20181213T041728Z">
@@ -5110,6 +5134,14 @@ Zhou Mingrui gulped a mouthful of saliva and smiled.</seg>
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>尤其提起自己宝贝儿子的时候，那双眼睛都快笑成了一条线，俨然一副好爸爸，以儿子为荣的感觉。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="zhong" changedate="20181214T050945Z" creationid="zhong" creationdate="20181214T050945Z">
+        <seg>Especially when people mentioned about his beloved son, he would always smile until his eyes were barely seen, just like a good father who was proud of his son.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>就在占卜师即将开口时，帐篷的布门突然被掀开，强烈的阳光照了进来，刺得背对那里的周明瑞都本能眯起了眼睛。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="cktalon" changedate="20181211T024627Z">
@@ -5202,6 +5234,14 @@ Zhou Mingrui gulped a mouthful of saliva and smiled.</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181207T055057Z">
         <seg>Calm down, calm down, calm down… After taking a few deep breaths, Zhou Mingrui worked hard to stop panicking.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>年小慕也因此听过一些关于陈子新的事情。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="zhong" changedate="20181214T051012Z" creationid="zhong" creationdate="20181214T051012Z">
+        <seg>Nian Xiaomu also heard some news about Chen Zixin.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5570,6 +5610,14 @@ Zhou Mingrui gulped a mouthful of saliva and smiled.</seg>
       </tuv>
       <tuv lang="EN-US" changeid="cktalon" changedate="20181211T020807Z">
         <seg>How could a person with such grievous wounds be still alive!?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>据说他刚成年，就被安排进盛达科技实习，原本是准备空降到某部门当副经理，最后他自己却找了陈总，要求从基层做起。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="zhong" changedate="20181214T051714Z" creationid="zhong" creationdate="20181214T051714Z">
+        <seg>It was said that he was assigned to Sheng Da Science and Technology for internship when he had just turn 18. The original plan was for him to take the role of a deputy manager in a certain department, but he asked Director Chen personally and asked to start the work at from basic level.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6316,6 +6364,14 @@ With that thought, Zhou Mingrui went closer.</seg>
       </tuv>
       <tuv lang="EN-US" changeid="(^_^)" changedate="20181213T013844Z">
         <seg>The pocket watch sprang open and the second hand was ticking</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>盛达科技的陈总，年小慕见过一次。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="zhong" changedate="20181214T050456Z" creationid="zhong" creationdate="20181214T050456Z">
+        <seg>Nian Xiaomu only met Directo Chen from Sheng Da Science and Technology once.</seg>
       </tuv>
     </tu>
     <tu>
