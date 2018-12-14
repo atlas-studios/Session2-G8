@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-4.1.5" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5150,6 +5150,14 @@ Zhou Mingrui gulped a mouthful of saliva and smiled.</seg>
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>年小慕回过神，连忙扬起笑，“原来是小陈总，幸会幸会，不知道你找我，有什么事吗？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="zhong" changedate="20181214T050106Z" creationid="zhong" creationdate="20181214T050106Z">
+        <seg>When Nian Xiaomu returned to her mind, she quickly smiled and said, "Oh, it's you, Director Chen. Nice to meet you. I don't know what you're looking for. What's wrong?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>年轻警官对他回以笑容，却没有停止翻看笔记的动作，而灰眸警官则解释道：</seg>
       </tuv>
       <tuv lang="EN-US" changeid="zhong" changedate="20181213T034811Z">
@@ -6470,6 +6478,14 @@ Zhou Mingrui, who was not unfamiliar with similar encounters, tried his best to 
       </tuv>
       <tuv lang="EN-US" changeid="leminhu" changedate="20181214T045817Z" creationid="leminhu" creationdate="20181214T045817Z">
         <seg>The Way You Hosted Is......Very Interesting</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>第208章 吃醋</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="zhong" changedate="20181214T045728Z" creationid="zhong" creationdate="20181214T045728Z">
+        <seg>Being Jealous</seg>
       </tuv>
     </tu>
     <tu>
