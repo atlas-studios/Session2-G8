@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-4.1.5" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3456,8 +3456,8 @@ Zhou Mingrui could not help but frown.</seg>
       <tuv lang="ZH-CN">
         <seg>休息室的门，重新被推开。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="leminhu" changedate="20181214T050620Z" creationid="leminhu" creationdate="20181214T050620Z">
-        <seg>The door of the resting room was pushed open again.</seg>
+      <tuv lang="EN-US" changeid="leminhu" changedate="20181214T062452Z" creationid="leminhu" creationdate="20181214T050620Z">
+        <seg>The door of the waiting room was pushed open again.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5100,8 +5100,8 @@ Zhou Mingrui gulped a mouthful of saliva and smiled.</seg>
       <tuv lang="ZH-CN">
         <seg>她刚走出上心的休息室，迎面就走来一个人，措不及防的跟她撞到了一起！</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="leminhu" changedate="20181214T052920Z" creationid="leminhu" creationdate="20181214T052920Z">
-        <seg>As she came out of Shangxin's restroom, someone came face to face with her. Not being able to halt his footsteps in time, he collided with Nian Xiaomu.</seg>
+      <tuv lang="EN-US" changeid="leminhu" changedate="20181214T062559Z" creationid="leminhu" creationdate="20181214T052920Z">
+        <seg>As she came out of Shangxin's waiting room, someone came face to face with her. Not being able to halt his footsteps in time, he collided with Nian Xiaomu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5124,8 +5124,8 @@ Zhou Mingrui gulped a mouthful of saliva and smiled.</seg>
       <tuv lang="ZH-CN">
         <seg>她微微一怔，想到这里是上心的休息室，以为是来找上心的，连忙开口，“上心刚走。”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="leminhu" changedate="20181214T053622Z" creationid="leminhu" creationdate="20181214T053622Z">
-        <seg>She startled for a bit. Thinking that it was Shangxin's restroom here, Nian Xiaomu thought that he was here to look for Shangxin. She hurriedly replied, "Shangxin just went off."</seg>
+      <tuv lang="EN-US" changeid="leminhu" changedate="20181214T062643Z" creationid="leminhu" creationdate="20181214T053622Z">
+        <seg>She startled for a bit. Thinking that it was Shangxin's waiting room here, Nian Xiaomu thought that he was here to look for Shangxin. She hurriedly replied, "Shangxin just went off."</seg>
       </tuv>
     </tu>
     <tu>
@@ -5625,8 +5625,8 @@ Zhou Mingrui gulped a mouthful of saliva and smiled.</seg>
       <tuv lang="ZH-CN">
         <seg>年小慕被撞得往后退了一步，又站回了休息室的门内，没等她回过神，就听见一道斯文的声音，从头顶上传来。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="leminhu" changedate="20181214T060711Z" creationid="leminhu" creationdate="20181214T053108Z">
-        <seg>Nian Xiaomu took a step backwards after being collided. She walked back again to the door of the restroom. Before she could respond, she heard a  soft voice coming from above her.</seg>
+      <tuv lang="EN-US" changeid="leminhu" changedate="20181214T062541Z" creationid="leminhu" creationdate="20181214T053108Z">
+        <seg>Nian Xiaomu took a step backwards after being collided. She walked back again to the door of the waiting room. Before she could respond, she heard a  soft voice coming from above her.</seg>
       </tuv>
     </tu>
     <tu>
