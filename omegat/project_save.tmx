@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-4.1.5" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -162,6 +162,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181209T145246Z">
         <seg>"…No," the real fortune-teller answered.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“……可我只想要小斯哥哥。”上心一提起那个名字，刚收住的眼泪，又开始泛滥。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="leminhu" changedate="20181214T050602Z" creationid="leminhu" creationdate="20181214T050602Z">
+        <seg>"......But I only want brother Xiaosi," Upon hearing that name, Shangxin's tears, which she had held back just now, started to accumulate again.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1566,6 +1574,14 @@ Zhou Mingrui could not help but frown.</seg>
       </tuv>
       <tuv lang="EN-US" changeid="leminhu" changedate="20181214T013325Z">
         <seg>"Try to be on yourself at three in the afternoon every Monday. Wait till I made a few more attempts and understood some things, you can possibly take leave beforehand. This way you shan't worry that you were in an unsuitable setting before we meet." </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“没什么，我只是想要让你开心一点。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="leminhu" changedate="20181214T050350Z" creationid="leminhu" creationdate="20181214T050350Z">
+        <seg>"Nothing, I only wanted you to be happier."</seg>
       </tuv>
     </tu>
     <tu>
@@ -3210,6 +3226,14 @@ Zhou Mingrui could not help but frown.</seg>
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>休息室的门，重新被推开。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="leminhu" changedate="20181214T050620Z" creationid="leminhu" creationdate="20181214T050620Z">
+        <seg>The door of the resting room was pushed open again.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>会不会出现什么意外情况？</seg>
       </tuv>
       <tuv lang="EN-US" changeid="jingh" changedate="20181208T165335Z">
@@ -3784,6 +3808,14 @@ Zhou Mingrui silently mumbled and decided that he would not purchase any additio
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181207T075040Z">
         <seg>Clink! Clang!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>可一想到余越寒的提醒，她咬了咬唇，只是抱紧了怀里的人。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="leminhu" changedate="20181214T050338Z" creationid="leminhu" creationdate="20181214T050118Z">
+        <seg>But she bit her lips once she thought of Yu Yuehan's reminder, and she held on to Shangxin more tightly in her arms.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5146,6 +5178,14 @@ Zhou Mingrui gulped a mouthful of saliva and smiled.</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181207T055057Z">
         <seg>Calm down, calm down, calm down… After taking a few deep breaths, Zhou Mingrui worked hard to stop panicking.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>年小慕几乎要脱口而出，告诉她，今天去救了她的人，就是唐原斯。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="leminhu" changedate="20181214T045948Z" creationid="leminhu" creationdate="20181214T045948Z">
+        <seg>Nian Xiaomu almost blurted out to her, that it was Tang Yuansi that saved her today.</seg>
       </tuv>
     </tu>
     <tu>
