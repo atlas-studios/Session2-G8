@@ -552,7 +552,7 @@
 王国	kingdom
 阿霍瓦	Awwa
 北大陆	Northern Continent
-鲁恩	Ruen
+鲁恩	Loen
 霍伊	Khoy
 皇家陆军	Royal Army
 上士	sergeant
