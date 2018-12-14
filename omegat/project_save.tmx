@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-4.1.5" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1134,6 +1134,14 @@ Zhou Mingrui could not help but frown.</seg>
       </tuv>
       <tuv lang="EN-US" changeid="(^_^)" changedate="20181212T090927Z">
         <seg>"It will be the real hegemon! It will conquer the seas!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“对不起，你没事吧？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="leminhu" changedate="20181214T053120Z" creationid="leminhu" creationdate="20181214T053120Z">
+        <seg>"Sorry, are you all right?"</seg>
       </tuv>
     </tu>
     <tu>
@@ -4974,6 +4982,14 @@ Zhou Mingrui gulped a mouthful of saliva and smiled.</seg>
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>她微微一怔，想到这里是上心的休息室，以为是来找上心的，连忙开口，“上心刚走。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="leminhu" changedate="20181214T053622Z" creationid="leminhu" creationdate="20181214T053622Z">
+        <seg>She startled for a bit. Thinking that it was Shangxin's restroom here, Nian Xiaomu thought that he was here to look for Shangxin. She hurriedly replied, "Shangxin just went off."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>她忐忑、期待、跃跃欲试般道：</seg>
       </tuv>
       <tuv lang="EN-US" changeid="leminhu" changedate="20181211T095351Z">
@@ -4986,6 +5002,14 @@ Zhou Mingrui gulped a mouthful of saliva and smiled.</seg>
       </tuv>
       <tuv lang="EN-US" changeid="zhong" changedate="20181213T131030Z" creationid="zhong" creationdate="20181213T131030Z">
         <seg>She put her hand over her mouth in a hurry and looked embarrassed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>她抬起头，发现面前站着一个年轻的男子，二十多岁的模样，一身西装笔挺，短发飞扬，长相不算很英俊，却充满那种让人舒服的阳光的味道。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="leminhu" changedate="20181214T053503Z" creationid="leminhu" creationdate="20181214T053503Z">
+        <seg>She raised her head, and realized a young man. He looked like he was in his twenties, and wore a well-ironed Western suit. While he did not look very handsome, his whole appearance was sunny and comfortable to look at.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6292,6 +6316,14 @@ With that thought, Zhou Mingrui went closer.</seg>
       </tuv>
       <tuv lang="EN-US" changeid="(^_^)" changedate="20181213T041746Z">
         <seg>Without thinking further, Klein continued reading the notebook.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>没想到，下一秒，眼前的男子却露出一抹八颗牙齿的阳光笑容。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="leminhu" changedate="20181214T053722Z" creationid="leminhu" creationdate="20181214T053722Z">
+        <seg>Unexpectedly, in the next moment, the man ahead gave her a sunny smile, revealing eight of his teeth. </seg>
       </tuv>
     </tu>
     <tu>
