@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-4.1.5" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -933,8 +933,8 @@ Zhou Mingrui could not help but frown.</seg>
       <tuv lang="ZH-CN">
         <seg>“嗯，发布会已经结束了，我正打算……”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="zhong" changedate="20181214T053521Z" creationid="zhong" creationdate="20181214T053521Z">
-        <seg>"Well, the conference is over. I'm going to...</seg>
+      <tuv lang="EN-US" changeid="leminhu" changedate="20181214T065657Z" creationid="zhong" creationdate="20181214T053521Z">
+        <seg>"Well, the press conference is over. I'm going to...</seg>
       </tuv>
     </tu>
     <tu>
@@ -1472,8 +1472,8 @@ Zhou Mingrui could not help but frown.</seg>
       <tuv lang="ZH-CN">
         <seg>“我听说，这次的发布会，全都是你负责的，就连上心会答应盛达科技的代言，也是因为你。”陈子新目光灼灼的看着她，很温和的询问，“我想要请你吃饭，当作是感谢，不知道年主管有没有时间？”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="zhong" changedate="20181214T052633Z" creationid="zhong" creationdate="20181214T052633Z">
-        <seg>"I've heard that you are in charge of this conference. Even Shangxin agreed to be the spokesperson for Sheng Da Science and Technology is because of you." Chen Zixin looked at her warmly and asked gently, "I want to invite you for dinner as a form of gratitude. I don't know if Supervisor Nian has the time?"</seg>
+      <tuv lang="EN-US" changeid="leminhu" changedate="20181214T065657Z" creationid="zhong" creationdate="20181214T052633Z">
+        <seg>"I've heard that you are in charge of this press conference. Even Shangxin agreed to be the spokesperson for Sheng Da Science and Technology is because of you." Chen Zixin looked at her warmly and asked gently, "I want to invite you for dinner as a form of gratitude. I don't know if Supervisor Nian has the time?"</seg>
       </tuv>
     </tu>
     <tu>
@@ -2729,8 +2729,8 @@ Zhou Mingrui could not help but frown.</seg>
       <tuv lang="ZH-CN">
         <seg>上心是发布会的压轴嘉宾，全部活动结束之后，还有一个小的粉丝见面会。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="leminhu" changedate="20181214T052236Z" creationid="leminhu" creationdate="20181214T052236Z">
-        <seg>Shangxin was the last guest in the conference. She still had a small fan meeting after all the activities had ended.</seg>
+      <tuv lang="EN-US" changeid="leminhu" changedate="20181214T065657Z" creationid="leminhu" creationdate="20181214T052236Z">
+        <seg>Shangxin was the last guest in the press conference. She still had a tiny fan meeting after all the activities had ended.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4113,8 +4113,8 @@ Zhou Mingrui silently mumbled and decided that he would not purchase any additio
       <tuv lang="ZH-CN">
         <seg>发布会结束，年小慕也必须回公司汇报情况。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="leminhu" changedate="20181214T060705Z" creationid="leminhu" creationdate="20181214T052657Z">
-        <seg>Nian Xiaomu had to go back to her company to make a report after the conference ended.</seg>
+      <tuv lang="EN-US" changeid="leminhu" changedate="20181214T065657Z" creationid="leminhu" creationdate="20181214T052657Z">
+        <seg>Nian Xiaomu had to go back to her company to make a report after the press conference ended.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4266,8 +4266,8 @@ Zhou Mingrui silently mumbled and decided that he would not purchase any additio
       <tuv lang="ZH-CN">
         <seg>听说今天刚从国外回来，就来了发布会，她一直在忙，压根没时间留意。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="leminhu" changedate="20181214T055337Z" creationid="leminhu" creationdate="20181214T055337Z">
-        <seg>She heard that Chen Zixin just came back from abroad, and had came to the conference directly. She did not take note of the time at all as she had been busy all along.</seg>
+      <tuv lang="EN-US" changeid="leminhu" changedate="20181214T065657Z" creationid="leminhu" creationdate="20181214T055337Z">
+        <seg>She heard that Chen Zixin just came back from abroad, and had came to the press conference directly. She did not take note of the time at all as she had been busy all along.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6761,8 +6761,8 @@ With that thought, Zhou Mingrui went closer.</seg>
       <tuv lang="ZH-CN">
         <seg>没等她开口问，眼前的人已经朝着她伸出手，“陈子新，很高兴认识你，今天的发布会很精彩，你主持的……很有趣。”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="leminhu" changedate="20181214T054151Z" creationid="leminhu" creationdate="20181214T054130Z">
-        <seg>Not waiting for her to speak, the man extended his hand to her, "I'm Chen Zixin, and I'm very glad to meet you. Today's conference was very exciting, and the way you hosted was......very interesting."</seg>
+      <tuv lang="EN-US" changeid="leminhu" changedate="20181214T065657Z" creationid="leminhu" creationdate="20181214T054130Z">
+        <seg>Not waiting for her to speak, the man extended his hand to her, "I'm Chen Zixin, and I'm very glad to meet you. Today's press conference was very exciting, and the way you hosted was......very interesting."</seg>
       </tuv>
     </tu>
     <tu>
@@ -7570,8 +7570,8 @@ Zhou Mingrui, who was not unfamiliar with similar encounters, tried his best to 
       <tuv lang="ZH-CN">
         <seg>经纪人从外面走了进来，“上心，发布会快结束了，很多粉丝都在外面，想要你的签名。”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="leminhu" changedate="20181214T050826Z" creationid="leminhu" creationdate="20181214T050826Z">
-        <seg>The agent walked in from outside, "Shangxin, the conference is almost ending. There are many fans of yours outside wanting your signature."</seg>
+      <tuv lang="EN-US" changeid="leminhu" changedate="20181214T065657Z" creationid="leminhu" creationdate="20181214T050826Z">
+        <seg>The agent walked in from outside, "Shangxin, the press conference is almost ending. There are many fans of yours outside wanting your signature."</seg>
       </tuv>
     </tu>
     <tu>
