@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-4.1.5" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1222,6 +1222,24 @@ Zhou Mingrui could not help but frown.</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181208T044701Z">
         <seg>"Muffins and eel soup make the perfect combination!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“少拿小六六当借口，你刚才发什么疯，那是盛达科技的太子爷，人家主动跟我说话，我一声招呼都没打，就没礼貌的跑了……”年小慕双手叉腰，气势汹汹的准备讨个说法。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="zhong" changedate="20181214T062540Z" creationid="zhong" creationdate="20181214T062540Z">
+        <seg>“Don’t use Liu liu as an excuse. Were you mad just now? He is the son of the Chairman of Shengda Technology. It must have been so rude to have left without even a proper greeting when he approached me…” Nian Xiaomu demanded a proper explanation as she stood with her hands on her hips. 
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“少爷，我们快回家吧，小六六肯定饿坏了！”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="zhong" changedate="20181214T062636Z" creationid="zhong" creationdate="20181214T062636Z">
+        <seg>“Mister, let’s just quickly go home. Liu liu must be starving!” she said, as she ran to the pavement and climbed into Yu Yuehan’s car after recognizing it. 
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -3130,6 +3148,15 @@ Zhou Mingrui could not help but frown.</seg>
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>他当时也是这么看着她的，像要活吃了她……</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="zhong" changedate="20181214T062610Z" creationid="zhong" creationdate="20181214T062610Z">
+        <seg>He had also stared at her then, as if he wanted to eat her alive…
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>他往后一靠，收回右手，十指交叉着抵于下巴，微笑看着两人道：</seg>
       </tuv>
       <tuv lang="EN-US" changeid="leminhu" changedate="20181211T135135Z">
@@ -3270,6 +3297,15 @@ Zhou Mingrui could not help but frown.</seg>
       </tuv>
       <tuv lang="EN-US" changeid="zhong" changedate="20181214T054052Z" creationid="zhong" creationdate="20181214T054015Z">
         <seg>After he said that, Yu Yuehan grabbed Nian Xiaomu's hand and walked past him.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>他的语气很淡，眼神也很平静。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="zhong" changedate="20181214T062449Z" creationid="zhong" creationdate="20181214T062449Z">
+        <seg>He had a gentle tone and a pair of calm eyes. 
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -5182,6 +5218,24 @@ Zhou Mingrui gulped a mouthful of saliva and smiled.</seg>
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>她的脑海里，顿时闪过她拽着他从舞台上下来的那一幕。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="zhong" changedate="20181214T062603Z" creationid="zhong" creationdate="20181214T062603Z">
+        <seg>She recalled the moment when she dragged him down the stage. 
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>她的话一出口，周围的低气压仿佛就消失了。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="zhong" changedate="20181214T062515Z" creationid="zhong" creationdate="20181214T062515Z">
+        <seg>The tense atmosphere eased as she said it.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>她看着周明瑞，似乎想从神秘的愚者先生那里得到答案。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="leminhu" changedate="20181212T122409Z">
@@ -5194,6 +5248,15 @@ Zhou Mingrui gulped a mouthful of saliva and smiled.</seg>
       </tuv>
       <tuv lang="EN-US" changeid="(^_^)" changedate="20181212T033914Z">
         <seg>Her eyes twinkled and grinned as she stood up and bent down to lift up the hem of her dress.  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>她神经一凛，“没、没关系了，就当扯平，反正我跟那个小陈总也不熟。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="zhong" changedate="20181214T062621Z" creationid="zhong" creationdate="20181214T062621Z">
+        <seg>“For-forget it, let’s just call it even. Anyways, I am not familiar with him at all,” Nian Xiaomu quickly said. 
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -5538,6 +5601,24 @@ Zhou Mingrui gulped a mouthful of saliva and smiled.</seg>
       </tuv>
       <tuv lang="EN-US" changeid="zhong" changedate="20181214T052042Z" creationid="zhong" creationdate="20181214T052042Z">
         <seg>Nian Xiaomu shook hand with him, but just for a brief moment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>年小慕正喘着气，头也不抬的回答，“你有病？我跟陈子新一点关系都没有，我舍不得他干嘛？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="zhong" changedate="20181214T062507Z" creationid="zhong" creationdate="20181214T062507Z">
+        <seg>“Are you nuts? He is none of my business, why will I be reluctant to part with him?” Nian Xiaomu answered without raising her head while panting.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>年小慕瞥见他黑沉的脸，连忙给自己找台阶下。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="zhong" changedate="20181214T062630Z" creationid="zhong" creationdate="20181214T062630Z">
+        <seg>Nian Xiaomu tried to extricate herself from the awkward position when she saw his stoned face. 
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -6560,6 +6641,15 @@ With that thought, Zhou Mingrui went closer.</seg>
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>淡漠的语气，仿佛刚才所有的不正常，都是因为关心女儿。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="zhong" changedate="20181214T062529Z" creationid="zhong" creationdate="20181214T062529Z">
+        <seg>His had a nonchalant tone. It appeared that all the fuss just now showed his care for his daughter. 
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>深吸口气，周明瑞来到房间中央，先平静了几分钟，接着才凝重迈步，逆时针走正方形。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181209T145458Z">
@@ -6808,6 +6898,15 @@ With that thought, Zhou Mingrui went closer.</seg>
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>看不出来情绪，只是原本就深邃的眸，此刻越发的黝黑。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="zhong" changedate="20181214T062500Z" creationid="zhong" creationdate="20181214T062500Z">
+        <seg>He hid his emotions and his mysterious pupil had only become more dark. 
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>看了眼裸露少许的齿轮和轴承，周明瑞从裤袋里掏出了一个硬币。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181207T074145Z">
@@ -6862,6 +6961,24 @@ Zhou Mingrui, who was not unfamiliar with similar encounters, tried his best to 
       </tuv>
       <tuv lang="EN-US" changeid="cktalon" changedate="20181211T022029Z">
         <seg>When Zhou Mingrui saw his sister's brown eyes look over, he forcibly composed himself and picked up an item beside his hand before calmly closing the drawer to conceal the existence of the revolver. As for his other hand which he placed on his temple, the texture he felt confirmed that his wound had already healed!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>眼前男人的脸，瞬间缓和下来，被骂了也不计较，声音依旧四平八稳，“管家说小六六不肯先吃饭，非要等你。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="zhong" changedate="20181214T062522Z" creationid="zhong" creationdate="20181214T062522Z">
+        <seg>His face immediately relaxed. He did not mind the insults and said calmly, “The butler says that Liu liu doesn’t want to eat alone first. She wants you to be home first.”
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>眼前男人的脾气，也像是被她刺激醒了，又开始黑眸幽幽的盯着她。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="zhong" changedate="20181214T062557Z" creationid="zhong" creationdate="20181214T062557Z">
+        <seg>The man in front of her seemed to be infuriated and continued to stare at her coldly. 
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -7006,6 +7123,15 @@ Zhou Mingrui, who was not unfamiliar with similar encounters, tried his best to 
       </tuv>
       <tuv lang="EN-US" changeid="zhong" changedate="20181214T045728Z" creationid="zhong" creationdate="20181214T045728Z">
         <seg>Being Jealous</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>第209章 小气的男人</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="zhong" changedate="20181214T062442Z" creationid="zhong" creationdate="20181214T062442Z">
+        <seg>A Stingy Man
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -7543,6 +7669,15 @@ Zhou Mingrui, who was not unfamiliar with similar encounters, tried his best to 
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181207T075036Z">
         <seg>After flipping the coin—which was only minted and circulated after King George III ascended to the throne—a few times, Zhou Mingrui inserted it into the gas meter's thin vertical 'mouth.'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>话到一半，突然觉得脊背一凉。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="zhong" changedate="20181214T062550Z" creationid="zhong" creationdate="20181214T062550Z">
+        <seg>She felt a shiver down her spine before she could finish. 
+</seg>
       </tuv>
     </tu>
     <tu>
