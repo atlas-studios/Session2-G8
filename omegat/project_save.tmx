@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-4.1.5" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3322,6 +3322,14 @@ Zhou Mingrui could not help but frown.</seg>
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>他说完，眼底的笑意又加深了几分。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="leminhu" changedate="20181214T054646Z" creationid="leminhu" creationdate="20181214T054646Z">
+        <seg>As he finished his words, his beam became more pronounced. .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>他身穿绣有闪电花纹的长袍，手中托着一个造型古怪的玻璃瓶，里面时而翻滚气泡，时而霜聚成雪，时而有风刮出痕迹。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="cktalon" changedate="20181211T025538Z">
@@ -6504,6 +6512,14 @@ With that thought, Zhou Mingrui went closer.</seg>
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>没等她开口问，眼前的人已经朝着她伸出手，“陈子新，很高兴认识你，今天的发布会很精彩，你主持的……很有趣。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="leminhu" changedate="20181214T054151Z" creationid="leminhu" creationdate="20181214T054130Z">
+        <seg>Not waiting for her to speak, the man extended his hand to her, "I'm Chen Zixin, and I'm very glad to meet you. Today's conference was very exciting, and the way you hosted was......very interesting."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>没给对方反应的机会，他手背浮现出片片虚幻鱼鳞，五指疯狂用力。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="leminhu" changedate="20181214T020435Z">
@@ -6688,6 +6704,14 @@ With that thought, Zhou Mingrui went closer.</seg>
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>盛达科技的陈总，只有一个宝贝儿子。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="leminhu" changedate="20181214T054947Z" creationid="leminhu" creationdate="20181214T054947Z">
+        <seg>President Chen from Sheng Da Science and Technology had a dear son.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>盛达科技的陈总，年小慕见过一次。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="zhong" changedate="20181214T050456Z" creationid="zhong" creationdate="20181214T050456Z">
@@ -6782,6 +6806,14 @@ Zhou Mingrui, who was not unfamiliar with similar encounters, tried his best to 
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181207T044425Z">
         <seg>From the looks of it, sleep is impossible. How am I to show up for work tomorrow?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>看着年小慕的眼神，发着光。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="leminhu" changedate="20181214T054730Z" creationid="leminhu" creationdate="20181214T054730Z">
+        <seg>He saw her eyes glowed.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6932,8 +6964,8 @@ Zhou Mingrui, who was not unfamiliar with similar encounters, tried his best to 
       <tuv lang="ZH-CN">
         <seg>第207章 你主持的……很有趣</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="leminhu" changedate="20181214T045817Z" creationid="leminhu" creationdate="20181214T045817Z">
-        <seg>The Way You Hosted Is......Very Interesting</seg>
+      <tuv lang="EN-US" changeid="leminhu" changedate="20181214T054136Z" creationid="leminhu" creationdate="20181214T045817Z">
+        <seg>The Way You Hosted Was......Very Interesting</seg>
       </tuv>
     </tu>
     <tu>
@@ -7803,6 +7835,14 @@ Zhou Mingrui, who was not unfamiliar with similar encounters, tried his best to 
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>这个名字一从脑海里的闪过，年小慕顿时瞪大了眼睛。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="leminhu" changedate="20181214T054817Z" creationid="leminhu" creationdate="20181214T054817Z">
+        <seg>The name flashed across her mind. Nian Xiaomu widened her eyes instantly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>这个念头一现，克莱恩口中仿佛满溢出肉汁的香味，也顺带想起了梅丽莎是怎么做嫩豌豆炖羔羊肉的。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="zhong" changedate="20181213T120506Z" creationid="zhong" creationdate="20181213T120506Z">
@@ -8569,6 +8609,14 @@ Calming himself down, Zhou Mingrui silently repeated the questions posed by the 
       </tuv>
       <tuv lang="EN-US" changeid="leminhu" changedate="20181212T070055Z">
         <seg>Alger sank into silence. After more than ten breaths, he turned around to look at the "mysterious man" Zhou Mingrui who was watching at the two and not uttering a single word. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>陈子新……</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="leminhu" changedate="20181214T054736Z" creationid="leminhu" creationdate="20181214T054736Z">
+        <seg>Chen Zixin</seg>
       </tuv>
     </tu>
     <tu>
