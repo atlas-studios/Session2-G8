@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-4.1.5" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1452,6 +1452,15 @@ Zhou Mingrui could not help but frown.</seg>
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“我听给唐氏集团送手机过去的人回来说，唐总似乎很喜欢那部手机，一直拿在手里反复的看，二话不说就留下了，他心里明明是在意上心的，为什么又不让她知道？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="zhong" changedate="20181214T062913Z" creationid="zhong" creationdate="20181214T062902Z">
+        <seg>“I have heard from the guy who helped deliver the mobile to Tang’s Group that Chairman Tang really liked it. He could not take his eyes off it and kept it without a second thought. He clearly cares for Shang Xin, so why doesn’t he want her to know?”
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“我听说，这次的发布会，全都是你负责的，就连上心会答应盛达科技的代言，也是因为你。”陈子新目光灼灼的看着她，很温和的询问，“我想要请你吃饭，当作是感谢，不知道年主管有没有时间？”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="zhong" changedate="20181214T052633Z" creationid="zhong" creationdate="20181214T052633Z">
@@ -2644,6 +2653,15 @@ Zhou Mingrui could not help but frown.</seg>
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>一路上，空气都格外的安静。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="zhong" changedate="20181214T062817Z" creationid="zhong" creationdate="20181214T062817Z">
+        <seg>‘I will just be a proper chauffeur and send him back to his bungalow.’
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>一路之上，他竟然没再碰到任何一名水手或船员，这里安静得仿佛坟墓内部。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="leminhu" changedate="20181214T020027Z">
@@ -2716,6 +2734,15 @@ Zhou Mingrui could not help but frown.</seg>
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>下一秒，却见他手一扬，将车钥匙丢进她怀里。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="zhong" changedate="20181214T062710Z" creationid="zhong" creationdate="20181214T062710Z">
+        <seg>Unexpectedly, he waved his hand and threw the car keys onto her lap instead.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>下一秒，就见余越寒停下脚步，回头睨她。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="zhong" changedate="20181214T054609Z" creationid="zhong" creationdate="20181214T054609Z">
@@ -2784,6 +2811,15 @@ Zhou Mingrui could not help but frown.</seg>
       </tuv>
       <tuv lang="EN-US" changeid="leminhu" changedate="20181212T125533Z">
         <seg>Not in a second, the "projection" shattered, and silence was restored beyond the gray fog.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>不就骂了他一句，居然还记住了……</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="zhong" changedate="20181214T062750Z" creationid="zhong" creationdate="20181214T062750Z">
+        <seg>I just casually scolded him and he simply can’t forget.
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -2964,6 +3000,15 @@ Zhou Mingrui could not help but frown.</seg>
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>于是，脑海里就浮现出了上心离开时，强打精神的样子，忍不住问道，“少爷，你跟唐原斯是不是认识？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="zhong" changedate="20181214T062842Z" creationid="zhong" creationdate="20181214T062842Z">
+        <seg>Then, She recalled how Shang Xin left trying to pretend being energetic. She could not resist to ask, “Mister, you know Tang Yuansi, don’t you?”
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>于是，这“星辰”也跟着大放光明。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181209T150220Z">
@@ -3016,6 +3061,15 @@ Zhou Mingrui could not help but frown.</seg>
       </tuv>
       <tuv lang="EN-US" changeid="leminhu" changedate="20181214T012917Z">
         <seg>Zhou Mingrui had been balancing the pros and cons from the start just now. More 'gatherings' could certainly help him to transmigrate back to the real world through equipping himself with more knowledge of extraordinary secrets and mysticism. For instance, the formula for the "spectator" potion should be revealed in the next "gathering". At the same time, he could attain some information of his current living circumstances which could be of some help to him too.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>从小六六的护工，到公关部主管，现在她又多了一个身份，余越寒的司机！</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="zhong" changedate="20181214T062801Z" creationid="zhong" creationdate="20181214T062801Z">
+        <seg>She now had a new role apart from the director of public relations and Liu liu’s caregiver. She was now Yu Yuehan’s chauffeur!
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -4120,6 +4174,15 @@ Zhou Mingrui silently mumbled and decided that he would not purchase any additio
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>可既然已经问了，她又真的有些担心上心，就决定问到底。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="zhong" changedate="20181214T062911Z" creationid="zhong" creationdate="20181214T062911Z">
+        <seg>But she could not take back her words. Since she was a bit concerned about Shang Xin, she decided to keep on asking,
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>吃饱了才能想办法！才能做事情！</seg>
       </tuv>
       <tuv lang="EN-US" changeid="(^_^)" changedate="20181213T014802Z">
@@ -5114,6 +5177,16 @@ Zhou Mingrui gulped a mouthful of saliva and smiled.</seg>
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>她小脑袋瓜转了转，觉得应该想个别的话题，来转移注意力。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="zhong" changedate="20181214T062832Z" creationid="zhong" creationdate="20181214T062832Z">
+        <seg>She peaked at him through the rearview mirror. He was wide awake with his cold face. 
+She tilted and turned her head and supposed that she should start talking about something else to divert his attention. 
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>她左看右看，确认形象没有任何问题后才温柔开口：</seg>
       </tuv>
       <tuv lang="EN-US" changeid="(^_^)" changedate="20181212T040456Z">
@@ -5453,6 +5526,15 @@ Zhou Mingrui gulped a mouthful of saliva and smiled.</seg>
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>小气的男人！</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="zhong" changedate="20181214T062755Z" creationid="zhong" creationdate="20181214T062755Z">
+        <seg>How stingy!’
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>少女往左看了看，又往右瞧一瞧，忍不住低声嘀咕道：</seg>
       </tuv>
       <tuv lang="EN-US" changeid="leminhu" changedate="20181213T032249Z">
@@ -5565,10 +5647,28 @@ Zhou Mingrui gulped a mouthful of saliva and smiled.</seg>
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>年小慕一边在心里扎小人，一边爬到驾驶座。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="zhong" changedate="20181214T062805Z" creationid="zhong" creationdate="20181214T062805Z">
+        <seg>She climbed to the driver’s seat as she cursed in her head. 
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>年小慕也因此听过一些关于陈子新的事情。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="zhong" changedate="20181214T051012Z" creationid="zhong" creationdate="20181214T051012Z">
         <seg>Nian Xiaomu also heard some news about Chen Zixin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>年小慕偷偷从后视镜瞥了一眼坐在车后座的男人，见他没睡觉，只是冷着脸。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="zhong" changedate="20181214T062821Z" creationid="zhong" creationdate="20181214T062821Z">
+        <seg>The entire journey was exceptionally silent. 
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -5631,6 +5731,15 @@ Zhou Mingrui gulped a mouthful of saliva and smiled.</seg>
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>年小慕说完，抿了抿唇，又小心翼翼瞥了一眼后视镜。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="zhong" changedate="20181214T062923Z" creationid="zhong" creationdate="20181214T062923Z">
+        <seg>Nian Xiaomu bit her lips as she finished while peaking into the rearview mirror again. 
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>年小慕还想再说什么，化妆师已经从外面进来。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="leminhu" changedate="20181214T052114Z" creationid="leminhu" creationdate="20181214T052114Z">
@@ -5642,6 +5751,14 @@ Zhou Mingrui gulped a mouthful of saliva and smiled.</seg>
         <seg>年小慕：“……”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="leminhu" changedate="20181214T053830Z" creationid="leminhu" creationdate="20181214T053830Z">
+        <seg>Nian Xiaomu, "......"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>年小慕：“？？？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="zhong" changedate="20181214T062639Z" creationid="zhong" creationdate="20181214T062639Z">
         <seg>Nian Xiaomu, "......"</seg>
       </tuv>
     </tu>
@@ -7304,6 +7421,15 @@ Zhou Mingrui, who was not unfamiliar with similar encounters, tried his best to 
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>等她回过神，就见他已经拉开了车后座的门，坐了进去。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="zhong" changedate="20181214T062727Z" creationid="zhong" creationdate="20181214T062727Z">
+        <seg>When she recovered from the shock, he was already sitting on the backseats of the vehicle. 
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>等她清洗归来，打开橱柜，习惯性检查了一遍调料盒等物品。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="zhong" changedate="20181213T131315Z" creationid="zhong" creationdate="20181213T131315Z">
@@ -7372,6 +7498,15 @@ Zhou Mingrui, who was not unfamiliar with similar encounters, tried his best to 
       </tuv>
       <tuv lang="EN-US" changeid="zhong" changedate="20181213T034740Z">
         <seg>Damn! Forgot to hide it! "Hey!" Klein cried out.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>系好安全带，老实的当一个称职的司机，拉着他回余家别墅。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="zhong" changedate="20181214T062811Z" creationid="zhong" creationdate="20181214T062811Z">
+        <seg>She fastened her seatbelt. 
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -7608,6 +7743,15 @@ Zhou Mingrui, who was not unfamiliar with similar encounters, tried his best to 
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>薄唇微启，“他们的事，你管不了。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="zhong" changedate="20181214T062933Z" creationid="zhong" creationdate="20181214T062933Z">
+        <seg>“It’s none of your business,” he said, hardly moving his lips.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>虽然他从未练过射击，但光是掏出这把手枪，肯定也能吓唬住人！</seg>
       </tuv>
       <tuv lang="EN-US" changeid="cktalon" changedate="20181211T022742Z">
@@ -7621,6 +7765,16 @@ Zhou Mingrui, who was not unfamiliar with similar encounters, tried his best to 
       </tuv>
       <tuv lang="EN-US" changeid="leminhu" changedate="20181214T013456Z">
         <seg>While I may not be able to conceal my own circumstances from Mr Fool, that guy ahead is also of some danger. I can't let him know who I really am!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>见她愣着不动，凉飕飕的丢出一句，“我有病，不能开车。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="zhong" changedate="20181214T062733Z" creationid="zhong" creationdate="20181214T062733Z">
+        <seg>Seeing that she did not budge, he said coldly, “I am mad and madman can’t drive.”
+Nian Xiaomu was speechless. 
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -7673,6 +7827,15 @@ Zhou Mingrui, who was not unfamiliar with similar encounters, tried his best to 
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>话一出口她就后悔了。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="zhong" changedate="20181214T062846Z" creationid="zhong" creationdate="20181214T062846Z">
+        <seg>I immediately regretted after she said it.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>话到一半，突然觉得脊背一凉。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="zhong" changedate="20181214T062550Z" creationid="zhong" creationdate="20181214T062550Z">
@@ -7718,6 +7881,15 @@ Zhou Mingrui, who was not unfamiliar with similar encounters, tried his best to 
       </tuv>
       <tuv lang="EN-US" changeid="leminhu" changedate="20181211T131357Z">
         <seg>Speaking to this point, Alger emphasised,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>说好的缓和气氛，怎么感觉这个话题，更凝重了？</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="zhong" changedate="20181214T062854Z" creationid="zhong" creationdate="20181214T062854Z">
+        <seg>It was supposed to ease the tension but it appeared to be worse.
+</seg>
       </tuv>
     </tu>
     <tu>
