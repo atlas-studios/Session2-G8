@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-4.1.5" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -154,6 +154,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="leminhu" changedate="20181214T021007Z">
         <seg>"'The Captain' has escaped," Alger answered in an annoyed manner as he panted,"I didn't know he still has some of hisMMM ." </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“……”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="leminhu" changedate="20181214T052049Z" creationid="leminhu" creationdate="20181214T052049Z">
+        <seg>"......"</seg>
       </tuv>
     </tu>
     <tu>
@@ -614,6 +622,14 @@ Zhou Mingrui could not help but frown.</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181209T144602Z">
         <seg>"Shuffle the cards first and cut the deck," the circus fortune-teller said in a muted voice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“你现在这样，可以吗？”年小慕心疼的抓着她的手。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="leminhu" changedate="20181214T051930Z" creationid="leminhu" creationdate="20181214T051930Z">
+        <seg>"Can you? By your current state?" Nian Xiaomu held on her hands with pity.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2578,6 +2594,22 @@ Zhou Mingrui could not help but frown.</seg>
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>上心却朝着她笑了笑，“我真的没事，既然是选择的路，那不管发生什么，都要坚持下去，这不是你当初跟我说过的话吗？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="leminhu" changedate="20181214T052043Z" creationid="leminhu" creationdate="20181214T052043Z">
+        <seg>But Shangxin smiled at her, "I'm really alright. Since this is a path I took, I'll persevere no matter what happens. This is what you told me previously, right?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>上心是发布会的压轴嘉宾，全部活动结束之后，还有一个小的粉丝见面会。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="leminhu" changedate="20181214T052236Z" creationid="leminhu" creationdate="20181214T052236Z">
+        <seg>Shangxin was the last guest in the conference. She still had a small fan meeting after all the activities had ended.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>上心现在的状态，能坚持到完成走秀已经很不容易了，再让她出去面对粉丝，万一情绪失控……</seg>
       </tuv>
       <tuv lang="EN-US" changeid="leminhu" changedate="20181214T051247Z" creationid="leminhu" creationdate="20181214T051247Z">
@@ -3724,6 +3756,14 @@ Zhou Mingrui silently mumbled and decided that he would not purchase any additio
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>化好妆，两人匆匆道别，她就跟着经纪人走了。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="leminhu" changedate="20181214T052552Z" creationid="leminhu" creationdate="20181214T052552Z">
+        <seg>After the make-up, the two bade good-byes hurriedly. Shangxin was then off with her agent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>半空之中，黑色“天鹅绒幕布”之上，一轮赤红色的满月高高悬挂，宁静照耀。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181207T052149Z">
@@ -4458,6 +4498,14 @@ Zhou Mingrui gulped a mouthful of saliva and smiled.</seg>
       </tuv>
       <tuv lang="EN-US" changeid="zhong" changedate="20181213T124409Z" creationid="zhong" creationdate="20181213T124409Z">
         <seg>After more than forty minutes, the not-so-brisk but rhythm footsteps approached, the keys were inserted, the handles turned, and the door opened.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>回馈一直支持和陪伴她的粉丝。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="leminhu" changedate="20181214T052330Z" creationid="leminhu" creationdate="20181214T052330Z">
+        <seg>She should give back to her fans who had been supporting and by her side all along.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5266,6 +5314,14 @@ Zhou Mingrui gulped a mouthful of saliva and smiled.</seg>
       </tuv>
       <tuv lang="EN-US" changeid="zhong" changedate="20181214T052042Z" creationid="zhong" creationdate="20181214T052042Z">
         <seg>Nian Xiaomu shook hand with him, but just for a brief moment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>年小慕还想再说什么，化妆师已经从外面进来。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="leminhu" changedate="20181214T052114Z" creationid="leminhu" creationdate="20181214T052114Z">
+        <seg>Nian Xiaomu wanted to say something else, but the dresser was already in.</seg>
       </tuv>
     </tu>
     <tu>
