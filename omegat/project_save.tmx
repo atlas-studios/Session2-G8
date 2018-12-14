@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-4.1.5" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2972,8 +2972,8 @@ Zhou Mingrui could not help but frown.</seg>
       <tuv lang="ZH-CN">
         <seg>他拿起之前放在外面的怀表，确认过去了多久。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="leminhu" changedate="20181212T130817Z">
-        <seg>He picked up his pocket watch initially placed outside, and confirmed how much time had past away.</seg>
+      <tuv lang="EN-US" changeid="leminhu" changedate="20181214T015000Z">
+        <seg>He picked up his pocket watch initially placed outside, and confirmed how much time had went pass.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3172,8 +3172,8 @@ Zhou Mingrui could not help but frown.</seg>
       <tuv lang="ZH-CN">
         <seg>他还在公寓房间内，还站在正中央。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="leminhu" changedate="20181212T130239Z">
-        <seg>He was still standing right in the centre of the room in the condominium.</seg>
+      <tuv lang="EN-US" changeid="leminhu" changedate="20181214T014854Z">
+        <seg>He was still standing right in the center of the room in the condominium.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3926,8 +3926,8 @@ Zhou Mingrui silently mumbled and decided that he would not purchase any additio
       <tuv lang="ZH-CN">
         <seg>周明瑞则感觉自己飞快变重，四周飘忽不在，眼前先是一暗，接着便是灿烂的阳光。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="leminhu" changedate="20181212T130120Z">
-        <seg>Zhou Mingrui felt himself rapidly increasing in mass, and his surroundings were all fleeting. Before his eyes was first darkness, then followed by vibrant sunshines.</seg>
+      <tuv lang="EN-US" changeid="leminhu" changedate="20181214T014838Z">
+        <seg>Zhou Mingrui felt himself rapidly increasing in mass, and his surroundings were all fleeting. Before his eyes was first darkness, then followed by vibrant sunshine.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5608,8 +5608,8 @@ Zhou Mingrui gulped a mouthful of saliva and smiled.</seg>
       <tuv lang="ZH-CN">
         <seg>无知者才能无畏，见识到那么神奇的事情，了解到非凡领域和神秘世界后，周明瑞是不敢再鲁莽尝试古弗萨克语和鲁恩语的“转运仪式”！</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="leminhu" changedate="20181212T155031Z">
-        <seg>They that know nothing fear nothing. Having experienced such miraculous event and understood the realm of the extraordinaires and the mystical world, Zhou Mingrui dare not try out, by impulse, the "luck enhancement ritual" in ancient Feysac and Ruen languages again.</seg>
+      <tuv lang="EN-US" changeid="leminhu" changedate="20181214T015047Z">
+        <seg>They that know nothing fear nothing. Having experienced such miraculous event and understood the realm of the extraordinaires and the mystical world, Zhou Mingrui dare not try out, by impulse, the "luck enhancement ritual" in ancient Feysac and Loen languages again.</seg>
       </tuv>
     </tu>
     <tu>
