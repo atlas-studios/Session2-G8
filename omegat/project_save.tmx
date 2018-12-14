@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-4.1.5" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -276,6 +276,14 @@ Zhou Mingrui guessed as he turned around and walked towards a cracked dressing m
       </tuv>
       <tuv lang="EN-US" changeid="jingh" changedate="20181208T060315Z">
         <seg>"I'm sorry, I forgot to ask, but what would you like to ask about?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“不用不用，这些事都是我应该做的……”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="zhong" changedate="20181214T052654Z" creationid="zhong" creationdate="20181214T052654Z">
+        <seg>"It's okay, that is part of my job..."</seg>
       </tuv>
     </tu>
     <tu>
@@ -750,6 +758,14 @@ Zhou Mingrui could not help but frown.</seg>
       </tuv>
       <tuv lang="EN-US" changeid="cktalon" changedate="20181211T022205Z">
         <seg>Is it a look of love and concern for a retarded brother?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“其实，我是有私心的。”陈子新打断了她拒绝的话，往前走了一步。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="zhong" changedate="20181214T052736Z" creationid="zhong" creationdate="20181214T052736Z">
+        <seg>"Actually, I have my selfish intention." Chen Zixin interrupted her refusal and took a step forward.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1374,6 +1390,14 @@ Zhou Mingrui could not help but frown.</seg>
       </tuv>
       <tuv lang="EN-US" changeid="leminhu" changedate="20181213T033804Z">
         <seg>"I'll give you an address. I'll mail you the formula to you, or tell you directly here, once I received the blood of the Ghost Shark."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“我听说，这次的发布会，全都是你负责的，就连上心会答应盛达科技的代言，也是因为你。”陈子新目光灼灼的看着她，很温和的询问，“我想要请你吃饭，当作是感谢，不知道年主管有没有时间？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="zhong" changedate="20181214T052633Z" creationid="zhong" creationdate="20181214T052633Z">
+        <seg>"I've heard that you are in charge of this conference. Even Shangxin agreed to be the spokesperson for Sheng Da Science and Technology is because of you." Chen Zixin looked at her warmly and asked gently, "I want to invite you for dinner as a form of gratitude. I don't know if Supervisor Nian has the time?"</seg>
       </tuv>
     </tu>
     <tu>
@@ -2506,6 +2530,14 @@ Zhou Mingrui could not help but frown.</seg>
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>一双漂亮的眼睛，扑簌扑簌，很吸引人。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="zhong" changedate="20181214T052351Z" creationid="zhong" creationdate="20181214T052351Z">
+        <seg>She had a pair of beautiful and attractive eyes that </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>一声声惊叹低低交织，奥黛丽也感受到了同样的震撼，那是人类所创造的奇迹，前所未有的海洋奇迹！</seg>
       </tuv>
       <tuv lang="EN-US" changeid="(^_^)" changedate="20181212T073138Z">
@@ -3046,6 +3078,14 @@ Zhou Mingrui could not help but frown.</seg>
       </tuv>
       <tuv lang="EN-US" changeid="cktalon" changedate="20181211T020654Z">
         <seg>Being very weak, he nearly fell down, but he managed to extend his hands in a fluster to hold onto the ends of the table. He felt that the surrounding air was turbulent as though there were faint whisperings resounding in it. The feeling was akin to hearing horror stories being recounted by elders when he was young.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>他很高，站在年小慕面前，身影完全将她笼罩住了。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="zhong" changedate="20181214T052833Z" creationid="zhong" creationdate="20181214T052833Z">
+        <seg>He was very tall, his shadow completely covered Nian Xiaomu when he is standing in front of her.</seg>
       </tuv>
     </tu>
     <tu>
