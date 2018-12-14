@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-4.1.5" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2196,8 +2196,8 @@ Zhou Mingrui could not help but frown.</seg>
       <tuv lang="ZH-CN">
         <seg>“那位警官都将事情说得这么可怕了，那他们为什么会不保护我这个重要证人或者说关键线索？”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="zhong" changedate="20181213T105648Z">
-        <seg>"That officer talked so horribly about it, why didn't they protect me, who is an important witness or key lead?"</seg>
+      <tuv lang="EN-US" changeid="zhong" changedate="20181214T014920Z">
+        <seg>"That officer made it sound so terrible, why didn't they protect me as an important witness or key lead?"</seg>
       </tuv>
     </tu>
     <tu>
@@ -3542,8 +3542,8 @@ Zhou Mingrui silently mumbled and decided that he would not purchase any additio
       <tuv lang="ZH-CN">
         <seg>全部死掉是常态？很高兴我还活着？很幸运我还活着？</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="zhong" changedate="20181213T105322Z">
-        <seg>The norm is for everyone to die together? Very glad that I'm still alive? Fortunate that I'm still alive?</seg>
+      <tuv lang="EN-US" changeid="zhong" changedate="20181214T012444Z">
+        <seg>The norm was for everyone to die together? Very glad that I'm still alive? Fortunate that I'm still alive?</seg>
       </tuv>
     </tu>
     <tu>
@@ -3798,8 +3798,8 @@ Zhou Mingrui silently mumbled and decided that he would not purchase any additio
       <tuv lang="ZH-CN">
         <seg>可他刚触摸到把手，动作忽然停顿了下来。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="zhong" changedate="20181213T105904Z">
-        <seg>But as soon as he reached the handle, he suddenly stopped.</seg>
+      <tuv lang="EN-US" changeid="zhong" changedate="20181214T014644Z">
+        <seg>But as soon as he touched the handle, he suddenly stopped.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5224,8 +5224,8 @@ Zhou Mingrui gulped a mouthful of saliva and smiled.</seg>
       <tuv lang="ZH-CN">
         <seg>当太阳西斜，天边云彩“燃烧”了起来，公寓住户陆续回家，克莱恩才将重心转移到别的地方。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="zhong" changedate="20181213T114417Z" creationid="zhong" creationdate="20181213T114417Z">
-        <seg>When the sun moved to the west, the clouds on the horizon appeared to be reddish-orange. Tenants in the appartment came home one after another, Klein shifted his focus elsewhere.</seg>
+      <tuv lang="EN-US" changeid="zhong" changedate="20181214T015030Z" creationid="zhong" creationdate="20181213T114417Z">
+        <seg>When the sun moved to the west, the clouds on the horizon appeared to be reddish-orange. Tenants in the apartment came home one after another, Klein shifted his focus elsewhere.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7013,8 +7013,8 @@ Zhou Mingrui, who was not unfamiliar with similar encounters, tried his best to 
       <tuv lang="ZH-CN">
         <seg>说完，他就走出了房间，很有教养地随手关门。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="zhong" changedate="20181213T041736Z">
-        <seg>After that, he exit the room and closed the door behind him with manners.</seg>
+      <tuv lang="EN-US" changeid="zhong" changedate="20181214T012414Z">
+        <seg>After that, he exited the room and closed the door behind him with manners.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7741,8 +7741,8 @@ Zhou Mingrui, who was not unfamiliar with similar encounters, tried his best to 
       <tuv lang="ZH-CN">
         <seg>那是负责公寓所在街区的警察之一，是个粗鲁野蛮酷爱动手的男子，不过，也许只有这样的人，才能震得住那些酒鬼、小偷、兼职小偷和恶棍、流氓。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="zhong" changedate="20181213T025037Z">
-        <seg>He is the policemen in charge of the street where the apartment is located. He is a rude, brutal, hands-on man. But maybe only such a man could be a deterrent for alcoholics, thieves, part-time thieves, villains and hooligans.</seg>
+      <tuv lang="EN-US" changeid="zhong" changedate="20181214T012517Z">
+        <seg>He was the policemen in charge of the street where the apartment is located. He is a rude, brutal, hands-on man. But maybe only such a man could be a deterrent for alcoholics, thieves, part-time thieves, villains and hooligans.</seg>
       </tuv>
     </tu>
     <tu>
