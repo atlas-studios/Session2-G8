@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-4.1.5" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -178,6 +178,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="leminhu" changedate="20181214T050602Z" creationid="leminhu" creationdate="20181214T050602Z">
         <seg>"......But I only want brother Xiaosi," Upon hearing that name, Shangxin's tears, which she had held back just now, started to accumulate again.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“……没有了。”陈子新看了一眼两人之间，似乎跟普通上下属不太一样的气氛，被他这么一问，有些尴尬的回答。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="zhong" changedate="20181214T054023Z" creationid="zhong" creationdate="20181214T053950Z">
+        <seg>"No..." Chen Zixin took a look at them, the feeling seemed to be different from that of ordinary subordinates and bosses. When asked by Yu Yuehan, he replied awkwardly..</seg>
       </tuv>
     </tu>
     <tu>
@@ -894,6 +902,14 @@ Zhou Mingrui could not help but frown.</seg>
       </tuv>
       <tuv lang="EN-US" changeid="zhong" changedate="20181213T131604Z" creationid="zhong" creationdate="20181213T131604Z">
         <seg>"Um... You have to hurry up and prepare for the interview. You have to think about your job."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“嗯，发布会已经结束了，我正打算……”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="zhong" changedate="20181214T053521Z" creationid="zhong" creationdate="20181214T053521Z">
+        <seg>"Well, the conference is over. I'm going to...</seg>
       </tuv>
     </tu>
     <tu>
@@ -2338,6 +2354,14 @@ Zhou Mingrui could not help but frown.</seg>
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“那还不走？”余越寒冷冷的启唇打断她的话。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="zhong" changedate="20181214T053605Z" creationid="zhong" creationdate="20181214T053605Z">
+        <seg>"Then why are you still here?" Yu Yuyue interrupted.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“那这边。”霍尔伯爵含笑又屈起右边的手臂，“这是作为父亲的骄傲。”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="(^_^)" changedate="20181212T045433Z">
@@ -3218,6 +3242,14 @@ Zhou Mingrui could not help but frown.</seg>
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>他的话落，就见余越寒抓住年小慕的手，牵着她，就从他身边，擦身而过。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="zhong" changedate="20181214T054052Z" creationid="zhong" creationdate="20181214T054015Z">
+        <seg>After he said that, Yu Yuehan grabbed Nian Xiaomu's hand and walked past him.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>他看网文长大，对此常有幻想，可当真正遇到，一时却难以接受。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="cktalon" changedate="20181211T020359Z">
@@ -3414,6 +3446,14 @@ Zhou Mingrui could not help but frown.</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181208T033109Z">
         <seg>At the top of the currency system was the gold pound. They were also paper based, but were guaranteed by gold and pegged directly. A gold pound was equivalent to twenty Soli. They had denominations of one, five, and ten gold pounds.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>余越寒却没有看他，而是径直的看向年小慕，“忙完了？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="zhong" changedate="20181214T053510Z" creationid="zhong" creationdate="20181214T053510Z">
+        <seg>Yu Yuehan did not look at him, but looked directly at Nian Xiaomu. "Done with your work?"</seg>
       </tuv>
     </tu>
     <tu>
@@ -7367,6 +7407,14 @@ Zhou Mingrui, who was not unfamiliar with similar encounters, tried his best to 
       </tuv>
       <tuv lang="EN-US" changeid="leminhu" changedate="20181213T032942Z">
         <seg>Seeing that Zhou Mingrui did not respond, he looked back at Audrey and said with deliberation,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>见年小慕愣住不说话，才扭头看向陈子新，“你还有事？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="zhong" changedate="20181214T053759Z" creationid="zhong" creationdate="20181214T053759Z">
+        <seg>Seeing that Nian Xiaomu was stunned and did not speak, he turned to Chen Zixin and asked, "Do you still need something from me?"</seg>
       </tuv>
     </tu>
     <tu>
