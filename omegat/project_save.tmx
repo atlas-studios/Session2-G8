@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-4.1.5" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2858,6 +2858,14 @@ Zhou Mingrui could not help but frown.</seg>
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>也不知道已经在那里站了多久。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="zhong" changedate="20181214T053327Z" creationid="zhong" creationdate="20181214T053327Z">
+        <seg>No one had an idea of how long he had been there.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>也许是自杀……</seg>
       </tuv>
       <tuv lang="EN-US" changeid="zhong" changedate="20181213T033405Z">
@@ -3390,6 +3398,14 @@ Zhou Mingrui could not help but frown.</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181208T033109Z">
         <seg>At the top of the currency system was the gold pound. They were also paper based, but were guaranteed by gold and pegged directly. A gold pound was equivalent to twenty Soli. They had denominations of one, five, and ten gold pounds.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>余越寒尊贵的身影，就站在墙边，淡漠的眼神，朝着他们的方向瞥了一眼。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="zhong" changedate="20181214T053309Z" creationid="zhong" creationdate="20181214T053309Z">
+        <seg>The dignified Yu Yuehan stood by the wall and glanced in their direction with indifferent eyes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4032,6 +4048,14 @@ Zhou Mingrui silently mumbled and decided that he would not purchase any additio
       </tuv>
       <tuv lang="EN-US" changeid="zhong" changedate="20181213T124923Z" creationid="zhong" creationdate="20181213T124923Z">
         <seg>Listening to her brother's orderly arrangement and looking at his gentle and calm smile, Melissa was stunned at the door and did not respond.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>听见年小慕的声音，踱步上前。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="zhong" changedate="20181214T053350Z" creationid="zhong" creationdate="20181214T053350Z">
+        <seg>Hearing Nian Xiaomu's voice, he walked towards them.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5542,6 +5566,14 @@ Zhou Mingrui gulped a mouthful of saliva and smiled.</seg>
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>微微垂眸，很认真的看着她，神色看起来有点紧张，像是准备告白一样。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="zhong" changedate="20181214T052907Z" creationid="zhong" creationdate="20181214T052907Z">
+        <seg>Looking down at her very carefully, he looked a little nervous, as if he was preparing for confession.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>心态一变，周明瑞立刻感受到了刚才没有注意的一些细节。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="leminhu" changedate="20181213T015610Z">
@@ -5858,6 +5890,14 @@ Zhou Mingrui gulped a mouthful of saliva and smiled.</seg>
       </tuv>
       <tuv lang="EN-US" changeid="leminhu" changedate="20181213T020915Z">
         <seg>This entire edifice looked magnificent, grand and lofty, just like a legendary palace for giants.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>旋即，扭头朝着自己身后看过去……</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="zhong" changedate="20181214T053117Z" creationid="zhong" creationdate="20181214T053117Z">
+        <seg>He turned and looked at his back immediately,</seg>
       </tuv>
     </tu>
     <tu>
@@ -6316,6 +6356,14 @@ With that thought, Zhou Mingrui went closer.</seg>
       </tuv>
       <tuv lang="EN-US" changeid="(^_^)" changedate="20181213T025831Z">
         <seg>There was no way to transmigrate back. Without a second thought, Klein picked up the notebook that laid on the table. He wanted to find hints that can help him regain the pieces of memory that were lost.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>没等他开口，年小慕眼角的余光突然瞥见拐弯处站在一个人，下意识的喊出声，“寒少。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="zhong" changedate="20181214T053200Z" creationid="zhong" creationdate="20181214T053018Z">
+        <seg>Without waiting for him to open his mouth, Nian Xiaomu suddenly caught a glimpse of a man standing at the corner. She cried out unconsciously, "Young Master Han"</seg>
       </tuv>
     </tu>
     <tu>
@@ -8195,6 +8243,14 @@ Zhou Mingrui, who was not unfamiliar with similar encounters, tried his best to 
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>闻言，陈子新微微一怔。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="zhong" changedate="20181214T053050Z" creationid="zhong" creationdate="20181214T053050Z">
+        <seg>Chen Zixinwei was shocked when he heard that.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>阿古希德五十来岁，身材高瘦，头发稀疏，眼神锐利，环视一圈后道：</seg>
       </tuv>
       <tuv lang="EN-US" changeid="(^_^)" changedate="20181212T085301Z">
@@ -8359,6 +8415,14 @@ Zhou Mingrui, who was not unfamiliar with similar encounters, tried his best to 
       </tuv>
       <tuv lang="EN-US" changeid="leminhu" changedate="20181212T070055Z">
         <seg>Alger sank into silence. After more than ten breaths, he turned around to look at the "mysterious man" Zhou Mingrui who was watching at the two and not uttering a single word. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>陈子新看见他，连忙转身，笑着打招呼，“寒少，我爸经常跟我提起你，说你是商界不可多得的天才，让我多向你学习。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="zhong" changedate="20181214T053444Z" creationid="zhong" creationdate="20181214T053444Z">
+        <seg>When Chen Zixin saw him, he quickly turned around and said hello with a smile, "Young Master Han, my father often mentioned you to me, saying that you are a rare genius in the business world. He asked me to learn more from you."</seg>
       </tuv>
     </tu>
     <tu>
